@@ -48,9 +48,9 @@ doc-cadernos-conhecimento-ses-df/
 | SIGTAP | v1.0 | Capítulo publicado na ferramenta tem conteúdo que o caderno não tem | [`cadernos/sigtap/`](./cadernos/sigtap/) |
 | Carteira de serviços e Carta de Serviços | v1.2 | Faltam Cartas de Serviços e Decreto DF 36.419/2015 | [`cadernos/carteira-servicos/`](./cadernos/carteira-servicos/) |
 | Rede hospitalar do DF | v1.0 | Diverge do capítulo sobre URD | [`cadernos/rede-hospitalar/`](./cadernos/rede-hospitalar/) |
-| RENASES — Relação Nacional de Ações e Serviços de Saúde | v0.2 | Rascunho; reescrita no modelo v1.0 (v0.3) em andamento | [`cadernos/renases/`](./cadernos/renases/) |
+| RENASES — Relação Nacional de Ações e Serviços de Saúde | v0.3 | Rascunho no modelo v1.1, aguardando aprovação | [`cadernos/renases/`](./cadernos/renases/) |
 
-Os cinco são anteriores ao modelo v1.0 e serão adaptados a ele, um por vez. Situação detalhada e regras da pasta em [`cadernos/README.md`](./cadernos/README.md).
+O da RENASES já está no modelo; os outros quatro são anteriores a ele e serão adaptados um por vez. Situação detalhada e regras da pasta em [`cadernos/README.md`](./cadernos/README.md).
 
 ---
 

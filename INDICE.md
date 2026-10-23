@@ -22,5 +22,5 @@
 | [`cadernos/carteira-servicos/`](./cadernos/carteira-servicos/) | README, caderno (v1.2), proposta gráfica, CHANGELOG | Carteira de serviços e Carta de Serviços |
 | [`cadernos/cnes/`](./cadernos/cnes/) | README, proposta gráfica, CHANGELOG, linha de base do capítulo e verificação em fonte primária (22/10/2026) | CNES (caderno em construção) |
 | [`cadernos/rede-hospitalar/`](./cadernos/rede-hospitalar/) | README, caderno (v1.0), proposta gráfica, CHANGELOG | Rede hospitalar pública do DF |
-| [`cadernos/renases/`](./cadernos/renases/) | README, caderno (v0.2), proposta gráfica, dossiê de estudo (pesquisa de 22/10/2026), CHANGELOG | RENASES |
+| [`cadernos/renases/`](./cadernos/renases/) | README, caderno (v0.3), proposta gráfica, dossiê de estudo (pesquisa de 22/10/2026), CHANGELOG | RENASES |
 | [`cadernos/sigtap/`](./cadernos/sigtap/) | README, caderno (v1.0), proposta gráfica, CHANGELOG | SIGTAP |

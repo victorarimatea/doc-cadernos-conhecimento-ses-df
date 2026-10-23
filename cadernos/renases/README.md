@@ -5,13 +5,13 @@
 | Finalidade | Explicar a Relação Nacional de Ações e Serviços de Saúde: o que o SUS oferece, como se acessa cada oferta (critérios de acesso), em que situação está desde 2012 e como isso se liga a SIGTAP, CNES e Carteira |
 | Público | Gestores hospitalares e equipes de apoio da SEGHOSP e da CICS |
 | Capítulo que alimenta | ainda não existe; previsto no grupo Conhecimento |
-| Versão vigente | v0.2 (rascunho) · 22/10/2026 |
-| Situação | Reescrita no modelo de caderno v1.0 (v0.3) em andamento |
+| Versão vigente | v0.3 (rascunho) · 23/10/2026 |
+| Situação | Aguardando aprovação do Victor (primeira versão no modelo de caderno v1.1) |
 | Alinhamento com a ferramenta | Não se aplica até o capítulo ser criado |
 
 ## Arquivos
 
-- [`caderno.md`](caderno.md) — texto do caderno (v0.2, anterior ao modelo v1.0).
+- [`caderno.md`](caderno.md) — texto do caderno (v0.3, no modelo v1.1).
 - [`proposta-grafica.md`](proposta-grafica.md) — como o capítulo vai aparecer na ferramenta.
 - [`dossie-de-estudo.md`](dossie-de-estudo.md) — pesquisa aprofundada de 22/10/2026: intenção, trajetória, críticas, uso judicial e de controle, carteiras em outros lugares, lacunas. Material de aprofundamento, não é o caderno.
 - [`CHANGELOG.md`](CHANGELOG.md) — registro de alterações.
@@ -42,10 +42,10 @@
 | 2026-10-22 | Classificar os achados da pesquisa: correções obrigatórias vão ao corpo; interpretação vai ao destaque "Leitura do projeto" (máx. 2); debate e dados de conjuntura vão ao dossiê; recomendações de desenho vão à documentação do projeto; autopromoção fica fora |
 | 2026-10-22 | Reescrever o caderno no modelo v1.0 (v0.3) |
 | 2026-10-23 | Este repositório público passa a ser o lugar único dos cadernos |
+| 2026-10-23 | v0.3 escrita no modelo; enunciados do CNJ, números de fila e de controle e críticas da literatura ficam no dossiê |
 
 ## Pendências
 
-- Reescrever no modelo v1.0 (v0.3), conforme o esboço da seção 8 do [modelo](../../MODELO-CADERNO.md).
 - Verificar se a Portaria de Consolidação nº 1/2017 absorveu a Portaria 841/2012 e se a Resolução de Consolidação CIT nº 1/2021 absorveu a Resolução CIT 2/2012.
 - Conferir a redação vigente dos enunciados do CNJ citados no dossiê (consolidação de junho de 2026).
 - Esclarecer a diferença entre as 5 formas de acesso da minuta de 2012 e os 6 códigos da portaria publicada.

@@ -2,6 +2,15 @@
 
 Da mais recente para a mais antiga.
 
+## v0.3 — 2026-10-23
+
+- Reescrita no modelo de caderno v1.1: cabeçalho com dados estruturados e faixa de procedência; dez seções na ordem fixa (O que é; Origem e base normativa; Como funciona; Situação atual e atualização; Por que importa para o gestor hospitalar; Não confundir; Cuidados e limites; Exemplo integrado; Nesta ferramenta; Para aprofundar), mais conceitos, fontes com tipo e histórico.
+- Destaques na sintaxe do modelo: duas ideias-chave, duas atenções, um "não confundir" e as duas leituras do projeto permitidas ("referencial de estrutura" e "relação complementar operacional"), cada uma com a base explícita. Linha do tempo de 2011 a 2023.
+- Conteúdo novo, vindo do dossiê de estudo: a RENASES como moldura (Portaria 841, art. 1º, § 2º); lista sistêmica, não por estabelecimento (Decreto 7.508, art. 23; Portaria 841, art. 2º); fotografia, não priorização (art. 43); perda do contrato organizativo e ausência nas normas de planejamento regional e na política de atenção especializada; regra de "complementar = acrescentar" (Portaria 841, art. 5º, § 1º); Carta de Serviços ao Usuário no quadro "Não confundir"; informação jurídica vinculante sobre os Temas 1234, 6 e 793 do STF.
+- Ficaram de fora, conforme o modelo: orientação jurídica ao gestor (sem orientação institucional que a sustente), enunciados do CNJ (redação de 2026 a conferir), números de fila e de controle externo, comparações internacionais e críticas da literatura (estão no dossiê).
+- Contagens de critérios reconferidas na transcrição da Portaria 841/2012 (atenção hospitalar: 38 itens; 6, 30, 34, 31, 8 e 0 por critério; ambulatorial especializada: 77 itens, 77 com encaminhamento e 76 com regulação).
+- Origem: chat do caderno RENASES.
+
 ## Mudança de repositório — 2026-10-23
 
 - Pasta trazida do repositório da ferramenta (`carteira-servicos-ses-df`, privado) para este repositório público, que passa a ser o lugar único dos cadernos. Decisão do Victor de 23/10/2026.
