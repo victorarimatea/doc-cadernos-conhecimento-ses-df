@@ -39,7 +39,7 @@ Até 22/10/2026 os cadernos eram Google Docs soltos na pasta de conhecimento do 
 | [SIGTAP](sigtap/README.md) | Conhecimento · SIGTAP | v1.0 | Migrado; capítulo tem conteúdo que o caderno não tem |
 | [Carteira de serviços](carteira-servicos/README.md) | Conhecimento · Carteira e Carta de Serviços | v1.2 | Migrado; faltam Cartas de Serviços e Decreto DF 36.419/2015 |
 | [Rede hospitalar do DF](rede-hospitalar/README.md) | Conhecimento · Rede hospitalar do DF | v1.0 | Migrado; diverge do capítulo sobre URD |
-| [RENASES](renases/README.md) | ainda não existe | v0.3 | Rascunho no modelo v1.1, aguardando aprovação |
+| [RENASES](renases/README.md) | ainda não existe | v1.0 | Aprovado no modelo v1.1; capítulo a criar |
 
 Os cadernos acima, exceto o da RENASES, são anteriores ao modelo e serão adaptados a ele, um por vez.
 

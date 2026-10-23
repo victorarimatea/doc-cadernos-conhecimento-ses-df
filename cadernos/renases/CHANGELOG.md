@@ -2,6 +2,11 @@
 
 Da mais recente para a mais antiga.
 
+## v1.0 — 2026-10-23
+
+- Aprovado pelo Victor em 23/10/2026, sem alteração de conteúdo em relação à v0.3. Marca `cad-renases-v1.0`.
+- Próximo passo: capítulo RENASES na ferramenta (fila de pendências da ferramenta).
+
 ## v0.3 — 2026-10-23
 
 - Reescrita no modelo de caderno v1.1: cabeçalho com dados estruturados e faixa de procedência; dez seções na ordem fixa (O que é; Origem e base normativa; Como funciona; Situação atual e atualização; Por que importa para o gestor hospitalar; Não confundir; Cuidados e limites; Exemplo integrado; Nesta ferramenta; Para aprofundar), mais conceitos, fontes com tipo e histórico.

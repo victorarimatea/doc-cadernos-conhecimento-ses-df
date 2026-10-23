@@ -3,14 +3,14 @@ id: renases
 nome_curto: RENASES
 titulo: "RENASES: a lista do que o SUS oferece e por qual porta"
 resumo: "O que é a Relação Nacional de Ações e Serviços de Saúde, como lê-la, em que situação está desde 2012 e o que ela significa para a carteira de um hospital."
-versao: v0.3
+versao: v1.0
 revisao: 2026-10-23
 situacao: com pendências
 ---
 
 # RENASES: a lista do que o SUS oferece e por qual porta
 
-Conhecimento · RENASES · **v0.3 (rascunho para aprovação)** · 23/10/2026 · base normativa conferida em fonte primária em 22/10/2026, com [pendências](README.md#pendências)
+Conhecimento · RENASES · **v1.0** · aprovado em 23/10/2026 · base normativa conferida em fonte primária em 22/10/2026, com [pendências](README.md#pendências)
 *Material de estudo. Não substitui a publicação oficial das normas citadas.*
 
 ## 1. O que é
@@ -160,6 +160,7 @@ Cada passo responde a uma pergunta diferente: o SUS oferece? quem está habilita
 
 | Versão | Data | O que mudou |
 |---|---|---|
+| v1.0 | 2026-10-23 | Aprovado pelo Victor, sem alteração de conteúdo em relação à v0.3 |
 | v0.3 | 2026-10-23 | Reescrita no modelo de caderno v1.1. Detalhe no [registro de alterações](CHANGELOG.md) |
 | v0.2 | 2026-10-22 | Transcrições integrais incorporadas |
 | v0.1 | 2026-10-22 | Primeiro rascunho |
