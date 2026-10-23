@@ -1,7 +1,7 @@
 # Índice — doc-cadernos-conhecimento-ses-df
 
 **Última atualização:** 2026-10-23
-**Total de arquivos:** 33
+**Total de arquivos:** 32
 
 ## Arquivos na raiz
 
@@ -17,7 +17,7 @@
 
 | Pasta | Conteúdo | Quando consultar |
 |---|---|---|
-| [`cadernos/`](./cadernos/) | `README.md` (regras da pasta e situação dos cadernos), `espelho-drive.md` (procedimento da cópia para o Drive) | Antes de criar ou alterar um caderno |
+| [`cadernos/`](./cadernos/) | `README.md` (regras da pasta e situação dos cadernos) | Antes de criar ou alterar um caderno |
 | [`cadernos/_modelo/`](./cadernos/_modelo/) | `README.md`, `caderno.md`, `proposta-grafica.md`, `CHANGELOG.md` — esqueleto de caderno novo no modelo v1.0 | Ao criar um caderno |
 | [`cadernos/carteira-servicos/`](./cadernos/carteira-servicos/) | README, caderno (v1.2), proposta gráfica, CHANGELOG | Carteira de serviços e Carta de Serviços |
 | [`cadernos/cnes/`](./cadernos/cnes/) | README, proposta gráfica, CHANGELOG, linha de base do capítulo e verificação em fonte primária (22/10/2026) | CNES (caderno em construção) |

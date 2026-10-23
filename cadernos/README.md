@@ -10,7 +10,7 @@ Até 22/10/2026 os cadernos eram Google Docs soltos na pasta de conhecimento do 
 
 ## Regras
 
-1. **Um lugar só.** O texto de cada caderno vive só aqui. A pasta "06-cadernos" do Drive do projeto é um espelho somente leitura, atualizado automaticamente a partir deste repositório. Não edite no Drive: a próxima atualização sobrescreve.
+1. **Um lugar só.** O texto de cada caderno vive só aqui. No Drive do projeto, a pasta "06-cadernos" tem apenas um índice com o link de cada caderno, sem cópia dos textos.
 2. **Repositório público.** O texto não contém dado interno não publicado, número preliminar da rede, deliberação em curso nem dado pessoal. Dado da rede aparece só dentro da ferramenta (privada), no bloco "Nesta ferramenta".
 3. **Uma subpasta por caderno**, com nome curto, minúsculo, sem acento (`cnes`, `sigtap`, `carteira-servicos`, `rede-hospitalar`, `renases`).
 4. **Os mesmos arquivos em toda subpasta:**
@@ -47,8 +47,8 @@ Fora desta rodada, a migrar depois para o mesmo padrão: o caderno de Iniciativa
 
 ## Como criar um caderno novo
 
-Copie a pasta [`_modelo/`](_modelo/), renomeie para o nome curto do caderno, preencha o `README.md`, abra o `CHANGELOG.md` com a entrada `v0.1`, escreva o `caderno.md` seguindo o [modelo de caderno](../MODELO-CADERNO.md) e acrescente a linha na tabela acima e no [README do repositório](../README.md).
+Copie a pasta [`_modelo/`](_modelo/), renomeie para o nome curto do caderno, preencha o `README.md`, abra o `CHANGELOG.md` com a entrada `v0.1`, escreva o `caderno.md` seguindo o [modelo de caderno](../MODELO-CADERNO.md) e acrescente a linha na tabela acima, no [README do repositório](../README.md) e no índice "00-indice-cadernos" da pasta "06-cadernos" do Drive.
 
-## Espelho no Drive
+## No Drive
 
-Pasta "06-cadernos" dentro de "PROJETO - CARTEIRA DE SERVIÇOS" no Drive, com uma subpasta por caderno e os mesmos arquivos. Atualizada por uma tarefa agendada que compara o último commit desta pasta com o que já está no Drive e copia só o que mudou. Cada arquivo espelhado traz no topo o aviso de que é cópia e o commit de origem. Procedimento em [`espelho-drive.md`](espelho-drive.md).
+A pasta "06-cadernos" dentro de "PROJETO - CARTEIRA DE SERVIÇOS" tem só o documento "00-indice-cadernos", com o link de cada caderno neste repositório. De 22 a 23/10/2026 houve ali uma cópia automática diária dos arquivos; ela foi desativada em 23/10/2026 porque, com o repositório público, a cópia deixou de ser necessária e lia pior que o original (Markdown sem formatação). Os arquivos copiados ficaram na pasta de substituídos do Drive, só para rastreabilidade.

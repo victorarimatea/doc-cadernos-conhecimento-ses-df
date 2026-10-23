@@ -30,7 +30,6 @@ doc-cadernos-conhecimento-ses-df/
 ├── vocabulario-controlado.md  Conceitos com definição curta, sinônimos e caderno principal (rascunho)
 └── cadernos/
     ├── README.md              Regras da pasta e situação de cada caderno
-    ├── espelho-drive.md       Procedimento da cópia automática para o Drive
     ├── _modelo/               Arquivos-modelo para criar um caderno novo
     ├── carteira-servicos/     ┐
     ├── cnes/                  │ Uma subpasta por caderno: README (ficha), caderno.md,
@@ -60,7 +59,7 @@ Os cinco são anteriores ao modelo v1.0 e serão adaptados a ele, um por vez. Si
 - **Caderno ensina; não emite parecer.** Interpretação do projeto só no destaque "Leitura do projeto", com rótulo fixo e no máximo dois por caderno.
 - **Toda afirmação tem procedência.** Norma, dado oficial, literatura, decisão judicial (com a força: vinculante, orientativa ou isolada) ou leitura do projeto.
 - **Orientação de natureza jurídica** só entra referenciada na orientação jurídica institucional que a sustenta.
-- **Um conteúdo, um lugar.** Este repositório é o lugar único dos cadernos; a pasta "06-cadernos" do Drive do projeto é cópia somente leitura, atualizada automaticamente. Normas vêm de [`doc-governanca-ses-df`](https://github.com/victorarimatea/doc-governanca-ses-df), sem cópia; dados da rede aparecem só dentro da ferramenta, nunca no texto dos cadernos.
+- **Um conteúdo, um lugar.** Este repositório é o lugar único dos cadernos; no Drive do projeto, a pasta "06-cadernos" tem só um índice com os links, sem cópia dos textos. Normas vêm de [`doc-governanca-ses-df`](https://github.com/victorarimatea/doc-governanca-ses-df), sem cópia; dados da rede aparecem só dentro da ferramenta, nunca no texto dos cadernos.
 - **Conferência obrigatória** dos cadernos a cada mudança estrutural da ferramenta.
 
 ---

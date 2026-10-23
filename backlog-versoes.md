@@ -14,13 +14,14 @@ já havia organizado os cadernos na pasta `cadernos/` do repositório privado da
 ferramenta (`carteira-servicos-ses-df`), com cópia automática para o Drive. Com a
 criação deste repositório, os cadernos passaram a ter dois lugares oficiais. O
 mantenedor decidiu que este repositório público é o lugar único: os cinco cadernos
-vieram para cá, e o repositório da ferramenta passa a apontar para este.
+vieram para cá, o repositório da ferramenta passa a apontar para este e o Drive fica
+só com um índice de links.
 
 ### Alterações realizadas
-- `cadernos/` — trazidas do repositório da ferramenta as pastas `carteira-servicos/`, `cnes/`, `rede-hospitalar/`, `sigtap/` e `_modelo/`, mais `README.md` e `espelho-drive.md`; cada caderno com `README.md`, `caderno.md`, `proposta-grafica.md` e `CHANGELOG.md`
+- `cadernos/` — trazidas do repositório da ferramenta as pastas `carteira-servicos/`, `cnes/`, `rede-hospitalar/`, `sigtap/` e `_modelo/`, mais `README.md`; cada caderno com `README.md`, `caderno.md`, `proposta-grafica.md` e `CHANGELOG.md`
 - `cadernos/renases/` — reunidos os arquivos das duas sessões: README no formato de ficha (com decisões, pendências e conferências), `CHANGELOG.md`, `caderno.md` (v0.2, sem o parágrafo de histórico, que está no CHANGELOG), `proposta-grafica.md` e `dossie-de-estudo.md`
 - `cadernos/_modelo/` — esqueleto do `caderno.md` atualizado para a ordem de seções do modelo v1.0; README do modelo com decisões e conferências estruturais
-- `cadernos/espelho-drive.md` — origem da cópia para o Drive passa a ser este repositório; cópia completa quando a origem muda
+- Cópia automática diária para o Drive (criada em 22/10/2026 no repositório da ferramenta) desativada: com o repositório público, o Drive passa a ter só o índice "00-indice-cadernos" com os links; o procedimento `espelho-drive.md` não foi mantido e os arquivos copiados foram para a pasta de substituídos do Drive
 - `cadernos/carteira-servicos/caderno.md` — fontes internas do projeto (FON-12) descritas de forma genérica, sem nomes de arquivos de trabalho nem número de processo (repositório público)
 - `MODELO-CADERNO.md` v1.0 → v1.1 — seção 7 ajustada à organização adotada
 - `README.md`, `INDICE.md` — estrutura e índice dos cinco cadernos

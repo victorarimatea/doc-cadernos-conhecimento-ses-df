@@ -170,7 +170,6 @@ doc-cadernos-conhecimento-ses-df/          (repositório público no GitHub)
 ├── vocabulario-controlado.md              ← conceitos (fonte única dos verbetes e dos links automáticos)
 └── cadernos/
     ├── README.md                          ← regras da pasta e situação de cada caderno
-    ├── espelho-drive.md                   ← procedimento da cópia automática para o Drive
     ├── _modelo/                           ← esqueleto de caderno novo
     └── renases/                           (uma subpasta por caderno)
         ├── README.md                      ← ficha: situação, normas, decisões, pendências, conferências
@@ -181,7 +180,7 @@ doc-cadernos-conhecimento-ses-df/          (repositório público no GitHub)
 ```
 
 - **O GitHub é o lugar único** (repositório público `doc-cadernos-conhecimento-ses-df`, decisões de 22 e 23/10/2026), seguindo a nomenclatura do ecossistema: documentos com prefixo `doc-`; o vocabulário controlado pode evoluir para uma matriz própria (`mat-`) quando servir a mais de um projeto. As normas continuam vindo do repositório de governança documental, sem cópia.
-- **No Drive do projeto**, a pasta "06-cadernos" é cópia somente leitura da pasta `cadernos/`, atualizada todos os dias por tarefa agendada; cada arquivo copiado traz no topo o aviso de que é cópia e o commit de origem. Não se edita no Drive, para não divergir.
+- **No Drive do projeto**, a pasta "06-cadernos" tem só um índice com o link de cada caderno no GitHub — sem segunda cópia do texto, para não divergir.
 - **Consequência de ser público:** o texto do caderno não contém dado interno não publicado, número preliminar da rede, deliberação em curso nem dado pessoal. Tudo o que é dado da rede aparece só no bloco "Nesta ferramenta", gerado dentro da ferramenta (que segue privada), e nunca no arquivo do caderno.
 - **Formato:** Markdown com cabeçalho de dados (id, nome curto, título, resumo, versão, revisão, situação) e destaques escritos na sintaxe de alertas do GitHub, que aparece formatada no próprio GitHub e é convertida pela ferramenta:
 
@@ -233,6 +232,6 @@ doc-cadernos-conhecimento-ses-df/          (repositório público no GitHub)
 
 | Versão | Data | Alteração |
 |---|---|---|
-| v1.1 | 2026-10-23 | Seção 7 ajustada: todos os cadernos neste repositório, `CHANGELOG.md` por caderno, pasta `_modelo/` e cópia automática somente leitura no Drive (em vez de índices de apontamento) |
+| v1.1 | 2026-10-23 | Seção 7 ajustada: todos os cadernos neste repositório, `CHANGELOG.md` por caderno e pasta `_modelo/`; no Drive, só índice com links |
 | v1.0 | 2026-10-22 | Aprovação com as cinco decisões; inclusão da regra jurídica (4.3.1), da conferência a cada mudança estrutural (6.1) e da consequência de repositório público |
 | v0.1 | 2026-10-22 | Proposta a partir do padrão dos cinco capítulos da versão 0.3.10 da ferramenta |
