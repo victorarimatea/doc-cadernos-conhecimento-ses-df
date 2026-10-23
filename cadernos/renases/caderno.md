@@ -143,7 +143,3 @@ E o limite mais importante:
 
 - Transcrições integrais (padrão de transcrição documental), publicadas no repositório de governança documental: https://github.com/victorarimatea/doc-governanca-ses-df — `DECRETO-FEDERAL-7508-2011-ORGANIZACAO-DO-SUS.md`, `PORTARIA-GMMS-841-2012-RENASES-1A-VERSAO.md`, `RESOLUCAO-CIT-2-2012-DIRETRIZES-RENASES.md`, `INFORME-CIT-RENASES-2012-OFICINA-TRIPARTITE.md`; PDFs originais na pasta compartilhada "PROJETO - BASE NORMATIVA E DOCUMENTAL" do Drive da CICS; planilha derivada `RENASES-2012-ACOES-SERVICOS-CRITERIOS.csv`
 - Informe RENASES, pauta da CIT de fevereiro de 2012 (gov.br): https://www.gov.br/saude/pt-br/acesso-a-informacao/gestao-do-sus/articulacao-interfederativa/cit/pautas-de-reunioes-e-resumos/2012/fevereiro/4-b-renases-cit-fevereiro-2012.pdf
-
----
-
-**Histórico:** v0.2 (22/10/2026) — incorporadas as transcrições integrais. Mudanças: números de critérios de acesso na atenção hospitalar e ambulatorial; critérios exatos da cirurgia bariátrica; consolidação bienal no próprio decreto; histórico da oficina tripartite de 2012 ("suficiência progressiva"); achados de citação (art. 42/43, Portaria 842/841). v0.1 (22/10/2026) — rascunho elaborado a partir da verificação de fontes da mesma data, para aprovação. Após aprovação: v1.0 na pasta de conhecimento do Drive e no repositório; capítulo correspondente na próxima versão da ferramenta.

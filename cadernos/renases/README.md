@@ -1,59 +1,63 @@
-# Caderno RENASES — README
+# Caderno de RENASES
 
-**Caderno:** RENASES — Relação Nacional de Ações e Serviços de Saúde
-**Versão vigente:** v0.2 (rascunho) — 2026-10-22
-**Situação:** reescrita no modelo v1.0 (v0.3) em andamento
-**Responsável:** victorarimatea
-
----
-
-## Proposta
-
-Explicar ao gestor hospitalar da SES-DF o que é a RENASES, como funciona (componentes e critérios de acesso), em que situação está desde 2012, por que importa para a Carteira de Serviços hospitalar e como não errar na leitura — inclusive no uso judicial. Normas citadas vêm das transcrições do repositório [doc-governanca-ses-df](https://github.com/victorarimatea/doc-governanca-ses-df).
+| Campo | Valor |
+|---|---|
+| Finalidade | Explicar a Relação Nacional de Ações e Serviços de Saúde: o que o SUS oferece, como se acessa cada oferta (critérios de acesso), em que situação está desde 2012 e como isso se liga a SIGTAP, CNES e Carteira |
+| Público | Gestores hospitalares e equipes de apoio da SEGHOSP e da CICS |
+| Capítulo que alimenta | ainda não existe; previsto no grupo Conhecimento |
+| Versão vigente | v0.2 (rascunho) · 22/10/2026 |
+| Situação | Reescrita no modelo de caderno v1.0 (v0.3) em andamento |
+| Alinhamento com a ferramenta | Não se aplica até o capítulo ser criado |
 
 ## Arquivos
 
-| Arquivo | Conteúdo |
-|---|---|
-| [`caderno.md`](./caderno.md) | Texto do caderno (v0.2, anterior ao modelo v1.0) |
-| [`proposta-grafica.md`](./proposta-grafica.md) | Componentes visuais e particularidades |
-| [`dossie-de-estudo.md`](./dossie-de-estudo.md) | Pesquisa aprofundada de 22/10/2026: intenção, trajetória, críticas, uso judicial e de controle, carteiras em outros lugares, lacunas |
+- [`caderno.md`](caderno.md) — texto do caderno (v0.2, anterior ao modelo v1.0).
+- [`proposta-grafica.md`](proposta-grafica.md) — como o capítulo vai aparecer na ferramenta.
+- [`dossie-de-estudo.md`](dossie-de-estudo.md) — pesquisa aprofundada de 22/10/2026: intenção, trajetória, críticas, uso judicial e de controle, carteiras em outros lugares, lacunas. Material de aprofundamento, não é o caderno.
+- [`CHANGELOG.md`](CHANGELOG.md) — registro de alterações.
 
-## Normas de base (transcritas)
+## Normas usadas
 
-| Norma | Transcrição |
+| Norma | Transcrição | Situação de verificação |
+|---|---|---|
+| Decreto nº 7.508/2011 | [DECRETO-FEDERAL-7508-2011-ORGANIZACAO-DO-SUS.md](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/01-legislacao-federal/DECRETO-FEDERAL-7508-2011-ORGANIZACAO-DO-SUS.md) | verificada em 22/10/2026 |
+| Resolução CIT nº 2/2012 | [RESOLUCAO-CIT-2-2012-DIRETRIZES-RENASES.md](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/03-portarias-ministeriais/RESOLUCAO-CIT-2-2012-DIRETRIZES-RENASES.md) | verificada em 22/10/2026; pendente consolidação CIT 1/2021 |
+| Portaria GM/MS nº 841/2012 e lista RENASES 2012 | [PORTARIA-GMMS-841-2012-RENASES-1A-VERSAO.md](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/03-portarias-ministeriais/PORTARIA-GMMS-841-2012-RENASES-1A-VERSAO.md) | verificada em 22/10/2026; pendente consolidação de 2017 |
+| Informe RENASES, CIT de fevereiro de 2012 (não normativo) | [INFORME-CIT-RENASES-2012-OFICINA-TRIPARTITE.md](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/08-documentos-tecnicos/INFORME-CIT-RENASES-2012-OFICINA-TRIPARTITE.md) | transcrito |
+| Portaria SES-DF nº 1.388/2018 | não transcrita | citada |
+
+## Dados usados
+
+| Base | Onde está |
 |---|---|
-| Decreto 7.508/2011 | [01-legislacao-federal/DECRETO-FEDERAL-7508-2011-ORGANIZACAO-DO-SUS.md](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/01-legislacao-federal/DECRETO-FEDERAL-7508-2011-ORGANIZACAO-DO-SUS.md) |
-| Portaria GM/MS 841/2012 e lista RENASES 2012 | [03-portarias-ministeriais/PORTARIA-GMMS-841-2012-RENASES-1A-VERSAO.md](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/03-portarias-ministeriais/PORTARIA-GMMS-841-2012-RENASES-1A-VERSAO.md) |
-| Resolução CIT 2/2012 | [03-portarias-ministeriais/RESOLUCAO-CIT-2-2012-DIRETRIZES-RENASES.md](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/03-portarias-ministeriais/RESOLUCAO-CIT-2-2012-DIRETRIZES-RENASES.md) |
-| Informe RENASES (CIT, fev/2012) | [08-documentos-tecnicos/INFORME-CIT-RENASES-2012-OFICINA-TRIPARTITE.md](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/08-documentos-tecnicos/INFORME-CIT-RENASES-2012-OFICINA-TRIPARTITE.md) |
+| Lista RENASES 2012 em planilha (201 ações e serviços, critérios 1 a 6), derivada da transcrição da Portaria 841/2012 | Documentação do projeto (a publicar junto com o capítulo) |
 
 ## Decisões registradas
 
 | Data | Decisão |
 |---|---|
 | 2026-10-22 | Criar caderno próprio de RENASES, com tom didático para gestores (não parecer) |
-| 2026-10-22 | Transcrever as normas de base no padrão de transcrição documental e publicá-las no D01 |
+| 2026-10-22 | Transcrever as normas de base no padrão de transcrição documental e publicá-las no repositório de governança documental |
 | 2026-10-22 | Fazer pesquisa ampla (quatro frentes) antes de aprovar o caderno; o resultado é o dossiê de estudo, não o caderno |
 | 2026-10-22 | Classificar os achados da pesquisa: correções obrigatórias vão ao corpo; interpretação vai ao destaque "Leitura do projeto" (máx. 2); debate e dados de conjuntura vão ao dossiê; recomendações de desenho vão à documentação do projeto; autopromoção fica fora |
 | 2026-10-22 | Reescrever o caderno no modelo v1.0 (v0.3) |
+| 2026-10-23 | Este repositório público passa a ser o lugar único dos cadernos |
 
 ## Pendências
 
+- Reescrever no modelo v1.0 (v0.3), conforme o esboço da seção 8 do [modelo](../../MODELO-CADERNO.md).
 - Verificar se a Portaria de Consolidação nº 1/2017 absorveu a Portaria 841/2012 e se a Resolução de Consolidação CIT nº 1/2021 absorveu a Resolução CIT 2/2012.
 - Conferir a redação vigente dos enunciados do CNJ citados no dossiê (consolidação de junho de 2026).
 - Esclarecer a diferença entre as 5 formas de acesso da minuta de 2012 e os 6 códigos da portaria publicada.
 - Orientação de natureza jurídica (o que o gestor deve demonstrar em ação judicial): fora do caderno até haver orientação jurídica institucional que a sustente.
-
-## Registro de evolução
-
-| Versão | Data | O que mudou |
-|---|---|---|
-| v0.2 | 2026-10-22 | Incorporadas as transcrições integrais: critérios de acesso contados na atenção hospitalar e ambulatorial; critérios exatos da cirurgia bariátrica; consolidação bienal no próprio decreto; histórico da oficina tripartite ("suficiência progressiva"); achados de citação (art. 42/43; Portaria 842/841); Resolução CIT 2/2012 transcrita |
-| v0.1 | 2026-10-22 | Primeiro rascunho, a partir da verificação de fontes |
+- Capítulo na ferramenta, com a lista navegável das 201 ações e serviços.
 
 ## Conferências estruturais
 
 | Data | Versão da ferramenta | Resultado |
 |---|---|---|
 | — | — | Nenhuma ainda (caderno não publicado na ferramenta) |
+
+## Origem
+
+Rascunho produzido no chat do caderno RENASES em 22/10/2026, levado no mesmo dia para a pasta de cadernos do repositório da ferramenta pelo chat do caderno CNES, e trazido para este repositório em 23/10/2026 junto com a proposta gráfica e o dossiê de estudo.

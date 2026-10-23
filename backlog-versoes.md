@@ -2,6 +2,31 @@
 
 ---
 
+## v1.1 — 2026-10-23
+
+**Tipo de alteração:** Atualização
+**Autorizado por:** victorarimatea
+**Instrumento de aprovação:** decisão do mantenedor em sessão de trabalho (23/10/2026)
+**Processo SEI:** não se aplica
+**IAC gerado:** não se aplica
+**Exposição de motivos:** em 22/10/2026, outra sessão de trabalho (caderno de CNES)
+já havia organizado os cadernos na pasta `cadernos/` do repositório privado da
+ferramenta (`carteira-servicos-ses-df`), com cópia automática para o Drive. Com a
+criação deste repositório, os cadernos passaram a ter dois lugares oficiais. O
+mantenedor decidiu que este repositório público é o lugar único: os cinco cadernos
+vieram para cá, e o repositório da ferramenta passa a apontar para este.
+
+### Alterações realizadas
+- `cadernos/` — trazidas do repositório da ferramenta as pastas `carteira-servicos/`, `cnes/`, `rede-hospitalar/`, `sigtap/` e `_modelo/`, mais `README.md` e `espelho-drive.md`; cada caderno com `README.md`, `caderno.md`, `proposta-grafica.md` e `CHANGELOG.md`
+- `cadernos/renases/` — reunidos os arquivos das duas sessões: README no formato de ficha (com decisões, pendências e conferências), `CHANGELOG.md`, `caderno.md` (v0.2, sem o parágrafo de histórico, que está no CHANGELOG), `proposta-grafica.md` e `dossie-de-estudo.md`
+- `cadernos/_modelo/` — esqueleto do `caderno.md` atualizado para a ordem de seções do modelo v1.0; README do modelo com decisões e conferências estruturais
+- `cadernos/espelho-drive.md` — origem da cópia para o Drive passa a ser este repositório; cópia completa quando a origem muda
+- `cadernos/carteira-servicos/caderno.md` — fontes internas do projeto (FON-12) descritas de forma genérica, sem nomes de arquivos de trabalho nem número de processo (repositório público)
+- `MODELO-CADERNO.md` v1.0 → v1.1 — seção 7 ajustada à organização adotada
+- `README.md`, `INDICE.md` — estrutura e índice dos cinco cadernos
+
+---
+
 ## v1.0 — 2026-10-23
 
 **Tipo de alteração:** Criação

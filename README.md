@@ -2,7 +2,7 @@
 
 **Tipo:** D — Documento
 **ID:** D04
-**Versão:** v1.0 — 2026-10-23
+**Versão:** v1.1 — 2026-10-23
 **Visibilidade:** Público
 **Mantenedor:** victorarimatea
 **Projeto de origem:** Carteira de Serviços Hospitalares da SES-DF — CICS (Central Integrada de Comando em Saúde)
@@ -26,23 +26,32 @@ doc-cadernos-conhecimento-ses-df/
 ├── README.md                  Este arquivo
 ├── INDICE.md                  Mapa de todos os arquivos
 ├── backlog-versoes.md         Histórico de versões do repositório
-├── MODELO-CADERNO.md          Modelo de caderno v1.0 — regra de escrita, apresentação, versionamento e conferência
+├── MODELO-CADERNO.md          Modelo de caderno v1.1 — regra de escrita, apresentação, versionamento e conferência
 ├── vocabulario-controlado.md  Conceitos com definição curta, sinônimos e caderno principal (rascunho)
 └── cadernos/
-    └── renases/               Caderno RENASES (v0.2, rascunho) + dossiê de estudo
+    ├── README.md              Regras da pasta e situação de cada caderno
+    ├── espelho-drive.md       Procedimento da cópia automática para o Drive
+    ├── _modelo/               Arquivos-modelo para criar um caderno novo
+    ├── carteira-servicos/     ┐
+    ├── cnes/                  │ Uma subpasta por caderno: README (ficha), caderno.md,
+    ├── rede-hospitalar/       │ proposta-grafica.md, CHANGELOG.md
+    ├── renases/               │ (e, quando houver, dossie-de-estudo.md)
+    └── sigtap/                ┘
 ```
 
 ---
 
 ## Cadernos
 
-| Caderno | Situação | Versão | Pasta |
+| Caderno | Versão | Situação | Pasta |
 |---|---|---|---|
-| RENASES — Relação Nacional de Ações e Serviços de Saúde | Rascunho; reescrita no modelo v1.0 em andamento | v0.2 | [`cadernos/renases/`](./cadernos/renases/) |
-| SIGTAP | Publicado na ferramenta (v0.3.10); a migrar para este repositório no modelo v1.0 | — | — |
-| Carteira de serviços e Carta de Serviços | Publicado na ferramenta; a migrar | — | — |
-| CNES | Publicado na ferramenta; a migrar (caderno formal em elaboração) | — | — |
-| Rede hospitalar do DF | Publicado na ferramenta; a migrar | — | — |
+| CNES | — | Em construção (linha de base e verificação de fontes registradas); capítulo já publicado na ferramenta | [`cadernos/cnes/`](./cadernos/cnes/) |
+| SIGTAP | v1.0 | Capítulo publicado na ferramenta tem conteúdo que o caderno não tem | [`cadernos/sigtap/`](./cadernos/sigtap/) |
+| Carteira de serviços e Carta de Serviços | v1.2 | Faltam Cartas de Serviços e Decreto DF 36.419/2015 | [`cadernos/carteira-servicos/`](./cadernos/carteira-servicos/) |
+| Rede hospitalar do DF | v1.0 | Diverge do capítulo sobre URD | [`cadernos/rede-hospitalar/`](./cadernos/rede-hospitalar/) |
+| RENASES — Relação Nacional de Ações e Serviços de Saúde | v0.2 | Rascunho; reescrita no modelo v1.0 (v0.3) em andamento | [`cadernos/renases/`](./cadernos/renases/) |
+
+Os cinco são anteriores ao modelo v1.0 e serão adaptados a ele, um por vez. Situação detalhada e regras da pasta em [`cadernos/README.md`](./cadernos/README.md).
 
 ---
 
@@ -51,7 +60,7 @@ doc-cadernos-conhecimento-ses-df/
 - **Caderno ensina; não emite parecer.** Interpretação do projeto só no destaque "Leitura do projeto", com rótulo fixo e no máximo dois por caderno.
 - **Toda afirmação tem procedência.** Norma, dado oficial, literatura, decisão judicial (com a força: vinculante, orientativa ou isolada) ou leitura do projeto.
 - **Orientação de natureza jurídica** só entra referenciada na orientação jurídica institucional que a sustenta.
-- **Um conteúdo, um lugar.** Normas vêm de [`doc-governanca-ses-df`](https://github.com/victorarimatea/doc-governanca-ses-df), sem cópia; dados da rede aparecem só dentro da ferramenta, nunca no texto dos cadernos.
+- **Um conteúdo, um lugar.** Este repositório é o lugar único dos cadernos; a pasta "06-cadernos" do Drive do projeto é cópia somente leitura, atualizada automaticamente. Normas vêm de [`doc-governanca-ses-df`](https://github.com/victorarimatea/doc-governanca-ses-df), sem cópia; dados da rede aparecem só dentro da ferramenta, nunca no texto dos cadernos.
 - **Conferência obrigatória** dos cadernos a cada mudança estrutural da ferramenta.
 
 ---
@@ -62,6 +71,7 @@ doc-cadernos-conhecimento-ses-df/
 |---|---|
 | [doc-governanca-ses-df](https://github.com/victorarimatea/doc-governanca-ses-df) (D01) | Fonte das normas transcritas citadas pelos cadernos |
 | [skl-transcricao-documental](https://github.com/victorarimatea/skl-transcricao-documental) (S05) | Padrão de transcrição das normas |
+| `carteira-servicos-ses-df` (privado) | Ferramenta de consulta da Carteira de Serviços, que exibe os cadernos como capítulos |
 
 ---
 
