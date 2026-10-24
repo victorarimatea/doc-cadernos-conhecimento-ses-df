@@ -28,7 +28,7 @@ caderno precisa ter e o capítulo não tem (histórico, como consultar).
 | # | Afirmação (linha de base) | Resultado | Fonte e data de conferência |
 |---|---|---|---|
 | N1 | CNES instituído na forma atual pela Portaria GM/MS nº 1.646/2015 | **Confirmada (texto oficial).** Art. 1º: "Fica instituído o Cadastro Nacional de Estabelecimentos de Saúde (CNES)". Publicada no DOU de 05/10/2015, nº 190, Seção 1, p. 669. Art. 2º: o CNES é documento público e sistema de informação oficial de cadastramento. Art. 5º: é a fonte oficial de informações sobre estabelecimentos de saúde no país | Cópia no gov.br da ANS: https://www.gov.br/ans/pt-br/centrais-de-conteudo/portaria-n-1646-de-02-de-outubro-de-2015-cnes-pdf (22/10/2026). Também listada no portal do CNES, seção Legislação, em 07/10/2015 (arquivo só por FTP) |
-| N2 | A Portaria 1.646/2015 está reunida na Portaria de Consolidação nº 1/2017 | **Confirmada por fonte oficial secundária; texto da consolidação pendente.** O manual de atualização do CNES dos hospitais da EBSERH (2ª ed., 2021) diz que a 1.646/2015 foi absorvida pela PRC nº 1/GM/MS, de 28/09/2017. Cita os dispositivos: art. 360 (definições), arts. 364 a 369 (responsabilidades e competências), arts. 371 e 372 (atualização eletrônica e transmissão) | Manual EBSERH: https://www.gov.br/hubrasil/pt-br/acesso-a-informacao/boletim-de-servico/sede/2021/anexos/manual-cnes-2a-edicao-v3.pdf (22/10/2026). Texto da PRC 1/2017 na BVS: **pendente** (portal bloqueado) |
+| N2 | A Portaria 1.646/2015 está reunida na Portaria de Consolidação nº 1/2017 | **Confirmada (texto oficial), em 24/10/2026.** O CNES é o Capítulo IV do Título VII da consolidação (arts. 358 a 390). A 1.646/2015 está nos arts. 358 a 373 (arts. 1º a 16) e 384 a 390 (comitê consultivo e disposições finais); a 2.022/2017 (tipo de estabelecimento por atividade), nos arts. 374 a 378; a 1.321/2016 (formas de contratação de profissionais), nos arts. 379 a 383. Definições no art. 360; responsabilidades e competências nos arts. 364 a 369. **Correção ao manual da EBSERH:** a atualização ao menos mensal (art. 13 da 1.646/2015) é o **art. 370** da consolidação; os arts. 371 e 372 tratam dos dois fluxos de envio (arts. 14 e 15) | PDF do texto consolidado guardado na pasta compartilhada de normas e transcrito em [`doc-governanca-ses-df`](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/03-portarias-ministeriais/PORTARIA-CONSOLIDACAO-GMMS-1-2017-ORGANIZACAO-E-FUNCIONAMENTO-DO-SUS.md) (págs. 105 a 112 do PDF). Texto atualizado até a Portaria GM/MS 3.440, de 24/10/2018; alterações posteriores pendentes de conferência. Antes: manual EBSERH, https://www.gov.br/hubrasil/pt-br/acesso-a-informacao/boletim-de-servico/sede/2021/anexos/manual-cnes-2a-edicao-v3.pdf (22/10/2026) |
 | N3 | Cadastro obrigatório para todo estabelecimento funcionar (art. 4º) | **Confirmada (texto oficial).** Art. 4º: o cadastramento e a manutenção dos dados no CNES são obrigatórios para que todo e qualquer estabelecimento de saúde possa funcionar em território nacional, devendo preceder aos licenciamentos | Portaria 1.646/2015, cópia ANS (22/10/2026) |
 | N4 | Responsabilidade do estabelecimento, por seus responsáveis técnicos ou administrativos (art. 7º) | **Confirmada (texto oficial).** Art. 7º. Na consolidação, art. 364, segundo o manual da EBSERH. O mesmo manual diz que os profissionais respondem pelos próprios dados (art. 365) | Idem; manual EBSERH |
 | N5 | O gestor do SUS pode desativar cadastros irregulares | **Confirmada (texto oficial); artigo localizado: art. 16.** Os gestores do SUS podem desativar cadastros realizados pelos estabelecimentos, com hierarquia municipal, estadual e federal | Portaria 1.646/2015, cópia ANS (22/10/2026) |
@@ -38,7 +38,7 @@ caderno precisa ter e o capítulo não tem (histórico, como consultar).
 
 | Achado | Fonte |
 |---|---|
-| **Atualização mínima mensal.** Art. 13 da Portaria 1.646/2015 (arts. 371 e 372 da consolidação, segundo o manual da EBSERH): processo eletrônico, com atualização ao menos mensal ou logo após qualquer mudança. O capítulo fala em "competência mensal", mas não diz que a atualização mensal é obrigação normativa | Portaria 1.646/2015, cópia ANS; manual EBSERH |
+| **Atualização mínima mensal.** Art. 13 da Portaria 1.646/2015 (art. 370 da consolidação, conferido no texto em 24/10/2026): processo eletrônico, com atualização ao menos mensal ou logo após qualquer mudança. O capítulo fala em "competência mensal", mas não diz que a atualização mensal é obrigação normativa | Portaria 1.646/2015, cópia ANS; PRC 1/2017, art. 370 |
 | **Dois fluxos de envio.** Art. 14: estabelecimentos fora do SUS, entre outros casos, inserem os dados direto na base nacional. Art. 15: estabelecimentos do SUS enviam à esfera de gestão do SUS do território, que valida e encaminha | Portaria 1.646/2015, cópia ANS (resumo dos arts. 14 e 15; texto integral a transcrever) |
 | **Prazo de adequação.** Art. 23: estabelecimentos e gestores tiveram até a competência de dezembro de 2016 para se adequar | Idem |
 | **Norma revogada.** Art. 25: revoga a Portaria GM/MS nº 1.890/1997. O conteúdo da 1.890/1997 não foi conferido | Idem |
@@ -84,7 +84,9 @@ Os dois portais abaixo recusam leitura automática e também o navegador do app.
 navegador, os arquivos podem seguir o padrão da pasta compartilhada de normas (PDF original e
 transcrição). Para isso, basta deixá-los numa pasta conectada.
 
-1. Portaria de Consolidação GM/MS nº 1/2017, texto compilado (para conferir arts. 360 a 372):
+1. ~~Portaria de Consolidação GM/MS nº 1/2017, texto compilado~~ — **resolvida em 24/10/2026**: o
+   PDF baixado pelo Victor foi transcrito (ver N2). Fica pendente só conferir alterações posteriores
+   a outubro de 2018 no texto compilado da BVS:
    https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prc0001_03_10_2017.html
 2. Portaria GM/MS nº 1.646/2015 na BVS (para comparar com a cópia da ANS e ver se há texto
    compilado): https://bvsms.saude.gov.br/bvs/saudelegis/gm/2015/prt1646_02_10_2015.html
@@ -102,8 +104,8 @@ transcrição). Para isso, basta deixá-los numa pasta conectada.
 ## 6. Consequências para o rascunho do caderno
 
 - Manter a base legal do capítulo, agora com dispositivos e publicação: 1.646/2015 (arts. 1º, 2º,
-  4º, 5º, 7º, 13 a 16, 23, 25) e a consolidação (arts. 360, 364 a 369, 371 e 372, marcada como
-  pendente de leitura direta).
+  4º, 5º, 7º, 13 a 16, 23, 25) e a consolidação (Título VII, Capítulo IV, arts. 358 a 390; atualização mensal no art. 370),
+  conferida no texto em 24/10/2026.
 - Corrigir a ênfase: a atualização **mensal** é obrigação normativa (art. 13), não só um ritmo do
   sistema.
 - Acrescentar o histórico: FCES e banco nacional em 2000 (Portaria SAS 511/2000), CNES na forma

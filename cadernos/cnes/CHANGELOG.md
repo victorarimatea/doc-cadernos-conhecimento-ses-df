@@ -2,6 +2,12 @@
 
 Da mais recente para a mais antiga.
 
+## Etapa 3, complemento — 2026-10-24
+
+- Portaria de Consolidação GM/MS nº 1/2017 lida no texto (PDF guardado na pasta compartilhada de normas e transcrito em `doc-governanca-ses-df`). O CNES é o Capítulo IV do Título VII, arts. 358 a 390. Item N2 da verificação passa a "confirmada (texto oficial)".
+- Correção: a atualização ao menos mensal é o **art. 370** da consolidação, não os arts. 371 e 372 como dizia o manual da EBSERH (esses tratam dos dois fluxos de envio). Ajustados a verificação (N2, achado da atualização mensal, pendência 1, consequências) e a tabela de normas do README.
+- Pendente: conferir alterações da consolidação posteriores a outubro de 2018. Origem: chat do caderno CNES.
+
 ## Mudança de repositório — 2026-10-23
 
 - Pasta trazida do repositório da ferramenta (`carteira-servicos-ses-df`, privado) para este repositório público, que passa a ser o lugar único dos cadernos. Decisão do Victor de 23/10/2026.

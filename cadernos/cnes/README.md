@@ -22,7 +22,7 @@
 | Norma | Transcrição | Situação de verificação |
 |---|---|---|
 | Portaria GM/MS nº 1.646/2015 (institui o CNES na forma atual) | não transcrita | conferida em 22/10/2026 (cópia oficial no gov.br da ANS; DOU de 05/10/2015) |
-| Portaria de Consolidação GM/MS nº 1/2017 (arts. 360 a 372, segundo manual da EBSERH) | não transcrita | pendente: texto na BVS, portal bloqueado |
+| Portaria de Consolidação GM/MS nº 1/2017 (Título VII, Capítulo IV, arts. 358 a 390; reúne a 1.646/2015, a 2.022/2017 e a 1.321/2016) | [transcrita](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/03-portarias-ministeriais/PORTARIA-CONSOLIDACAO-GMMS-1-2017-ORGANIZACAO-E-FUNCIONAMENTO-DO-SUS.md) em 24/10/2026 | conferida em 24/10/2026; texto até outubro de 2018, alterações posteriores pendentes |
 | Portaria SAS/MS nº 118/2014, republicada em 16/06/2014 (desativação após seis meses sem atualização) | não transcrita | conferida em 22/10/2026 (cópia municipal da versão republicada); vigência atual pendente |
 | Portaria SAS/MS nº 511/2000 (ficha cadastral e banco nacional; origem do cadastro) | não transcrita | conferida em 22/10/2026 (cópia da SES-AM) |
 | Portaria GM/MS nº 2.022/2017 (tipo de estabelecimento derivado das atividades) | não transcrita | conferida em 22/10/2026 (cópia municipal) |
