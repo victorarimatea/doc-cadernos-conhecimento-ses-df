@@ -30,3 +30,22 @@ Como o capítulo aparece na ferramenta (rota `#k-cnes`, grupo Conhecimento). Reg
 - Destaque informativo (azul), de atenção (âmbar) e de alerta (rosa) para conceito, cuidado e risco.
 - Quadros com cabeçalho; números alinhados à direita.
 - Legível nos três temas da ferramenta (Leve, Intermediário, Escuro) e no celular.
+
+## Proposta para o caderno v0.1 (24/10/2026)
+
+A versão do caderno muda as seções para a ordem fixa do modelo de caderno v1.1. Na ferramenta, o capítulo deve passar a seguir esta estrutura quando a geração ler os cadernos dos arquivos.
+
+| # | Seção | Elementos | Destaques |
+|---|---|---|---|
+| 1 | O que é | texto corrido | Ideia-chave "Cadastro declarado, com efeito real" |
+| 2 | Origem e base normativa | quadro Norma · Dispositivo · O que estabelece · Situação | Atenção "Cite a consolidação" |
+| 3 | Como funciona | texto; quadro dos blocos do cadastro; quadro "Como consultar" | — |
+| 4 | Situação atual e atualização | texto | Linha do tempo 2000–2017 |
+| 5 | Por que importa para o gestor hospitalar | lista numerada | Leitura do projeto "Três registros, três jeitos" |
+| 6 | Não confundir | quadro Instrumento · Pergunta · Erro comum | Não confundir "Cadastro não é realidade" |
+| 7 | Cuidados e limites | lista com marcadores | Atenção "Código CNES é texto" |
+| 8 | Exemplo integrado | lista numerada (cirurgia bariátrica) | — |
+| 9 | Nesta ferramenta | bloco gerado (os quatro indicadores atuais, o panorama da rede por grupo e o critério, links para Hospitais e Capacidade) | Na ferramenta "Recortes diferentes" |
+| 10 | Para aprofundar | lista de links | — |
+
+O quadro do panorama da rede (grupos e número de hospitais) sai do texto e vai para o bloco gerado, porque o caderno não traz números que dependem da base.

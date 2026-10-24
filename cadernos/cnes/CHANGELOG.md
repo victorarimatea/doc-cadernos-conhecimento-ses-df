@@ -2,6 +2,10 @@
 
 Da mais recente para a mais antiga.
 
+## v0.1 — 2026-10-24 (Etapa 4)
+
+- Primeiro rascunho do caderno (`caderno.md`) no modelo de caderno v1.1: dez seções na ordem fixa, base normativa pela Portaria de Consolidação nº 1/2017 (arts. 358 a 390), linha do tempo 2000–2017, como consultar (portal, TabNet, arquivos), exemplo integrado com a cirurgia bariátrica e bloco "Nesta ferramenta" descrito. Achados novos em relação ao capítulo: o CNES não é instrumento de controle (art. 359, parágrafo único); manter o cadastro inclui reafirmar que nada mudou (art. 360, III); as Portarias 1.646/2015, 2.022/2017 e 1.321/2016 foram revogadas por consolidação (art. 560). Fora do caderno, por ser dado interno não publicado: leitos habilitados × operacionais do 1º ciclo. Aguarda aprovação. Origem: chat do caderno CNES.
+
 ## Etapa 3, complemento — 2026-10-24
 
 - Portaria de Consolidação GM/MS nº 1/2017 lida no texto (PDF guardado na pasta compartilhada de normas e transcrito em `doc-governanca-ses-df`). O CNES é o Capítulo IV do Título VII, arts. 358 a 390. Item N2 da verificação passa a "confirmada (texto oficial)".

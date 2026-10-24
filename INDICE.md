@@ -20,7 +20,7 @@
 | [`cadernos/`](./cadernos/) | `README.md` (regras da pasta e situação dos cadernos) | Antes de criar ou alterar um caderno |
 | [`cadernos/_modelo/`](./cadernos/_modelo/) | `README.md`, `caderno.md`, `proposta-grafica.md`, `CHANGELOG.md` — esqueleto de caderno novo no modelo v1.0 | Ao criar um caderno |
 | [`cadernos/carteira-servicos/`](./cadernos/carteira-servicos/) | README, caderno (v1.2), proposta gráfica, CHANGELOG | Carteira de serviços e Carta de Serviços |
-| [`cadernos/cnes/`](./cadernos/cnes/) | README, proposta gráfica, CHANGELOG, linha de base do capítulo e verificação em fonte primária (22/10/2026) | CNES (caderno em construção) |
+| [`cadernos/cnes/`](./cadernos/cnes/) | README, caderno (v0.1, rascunho), proposta gráfica, CHANGELOG, linha de base do capítulo e verificação em fonte primária (22 e 24/10/2026) | CNES (rascunho aguarda aprovação) |
 | [`cadernos/rede-hospitalar/`](./cadernos/rede-hospitalar/) | README, caderno (v1.0), proposta gráfica, CHANGELOG | Rede hospitalar pública do DF |
 | [`cadernos/renases/`](./cadernos/renases/) | README, caderno (v1.0), proposta gráfica, dossiê de estudo (pesquisa de 22/10/2026), CHANGELOG | RENASES |
 | [`cadernos/sigtap/`](./cadernos/sigtap/) | README, caderno (v1.0), proposta gráfica, CHANGELOG | SIGTAP |
