@@ -21,8 +21,8 @@
 | Norma | Transcrição | Situação de verificação |
 |---|---|---|
 | Decreto nº 7.508/2011 | [DECRETO-FEDERAL-7508-2011-ORGANIZACAO-DO-SUS.md](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/01-legislacao-federal/DECRETO-FEDERAL-7508-2011-ORGANIZACAO-DO-SUS.md) | verificada em 22/10/2026 |
-| Resolução CIT nº 2/2012 | [RESOLUCAO-CIT-2-2012-DIRETRIZES-RENASES.md](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/03-portarias-ministeriais/RESOLUCAO-CIT-2-2012-DIRETRIZES-RENASES.md) | verificada em 22/10/2026; pendente consolidação CIT 1/2021 |
-| Portaria GM/MS nº 841/2012 e lista RENASES 2012 | [PORTARIA-GMMS-841-2012-RENASES-1A-VERSAO.md](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/03-portarias-ministeriais/PORTARIA-GMMS-841-2012-RENASES-1A-VERSAO.md) | verificada em 22/10/2026; pendente consolidação de 2017 |
+| Resolução CIT nº 2/2012 | [RESOLUCAO-CIT-2-2012-DIRETRIZES-RENASES.md](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/03-portarias-ministeriais/RESOLUCAO-CIT-2-2012-DIRETRIZES-RENASES.md) | verificada em 22/10/2026; consolidada nos arts. 26 a 46 da Resolução de Consolidação CIT nº 1/2021 e revogada por ela (art. 122, IV), conferido em 24/10/2026 |
+| Portaria GM/MS nº 841/2012 e lista RENASES 2012 | [PORTARIA-GMMS-841-2012-RENASES-1A-VERSAO.md](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/03-portarias-ministeriais/PORTARIA-GMMS-841-2012-RENASES-1A-VERSAO.md) | verificada em 22/10/2026; consolidada nos arts. 14 a 21 da Portaria de Consolidação GM/MS nº 1/2017 e revogada por ela (art. 560, III), conferido em 24/10/2026 |
 | Informe RENASES, CIT de fevereiro de 2012 (não normativo) | [INFORME-CIT-RENASES-2012-OFICINA-TRIPARTITE.md](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/08-documentos-tecnicos/INFORME-CIT-RENASES-2012-OFICINA-TRIPARTITE.md) | transcrito |
 | Portaria SES-DF nº 1.388/2018 | não transcrita | citada |
 
@@ -47,7 +47,6 @@
 
 ## Pendências
 
-- Verificar se a Portaria de Consolidação nº 1/2017 absorveu a Portaria 841/2012 e se a Resolução de Consolidação CIT nº 1/2021 absorveu a Resolução CIT 2/2012.
 - Conferir a redação vigente dos enunciados do CNJ citados no dossiê (consolidação de junho de 2026).
 - Esclarecer a diferença entre as 5 formas de acesso da minuta de 2012 e os 6 códigos da portaria publicada.
 - Orientação de natureza jurídica (o que o gestor deve demonstrar em ação judicial): fora do caderno até haver orientação jurídica institucional que a sustente.

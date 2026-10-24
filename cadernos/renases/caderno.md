@@ -3,8 +3,8 @@ id: renases
 nome_curto: RENASES
 titulo: "RENASES: a lista do que o SUS oferece e por qual porta"
 resumo: "O que é a Relação Nacional de Ações e Serviços de Saúde, como lê-la, em que situação está desde 2012 e o que ela significa para a carteira de um hospital."
-versao: v1.0
-revisao: 2026-10-23
+versao: v1.1
+revisao: 2026-10-24
 situacao: com pendências
 ---
 
@@ -28,12 +28,12 @@ Ela **não** é tabela de preços, **não** diz qual hospital executa cada servi
 |---|---|---|---|
 | [Lei nº 8.080/1990](https://www.planalto.gov.br/ccivil_03/leis/l8080.htm) | art. 7º, II | Integralidade da assistência | Vigente |
 | [Decreto nº 7.508/2011](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/01-legislacao-federal/DECRETO-FEDERAL-7508-2011-ORGANIZACAO-DO-SUS.md) | arts. 21 a 24 e 43 | Cria a RENASES; consolidação a cada dois anos (art. 22, parágrafo único); responsabilidades pactuadas entre os entes (art. 23); relações complementares (art. 24); a primeira RENASES é a soma do que já era ofertado (art. 43) | Vigente; a única alteração (Decreto 11.161/2022) não toca a RENASES |
-| [Resolução CIT nº 2/2012](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/03-portarias-ministeriais/RESOLUCAO-CIT-2-2012-DIRETRIZES-RENASES.md) | arts. 1º a 21 | Diretrizes: princípios, finalidade de tornar pública a oferta, relações complementares, acesso, financiamento | Vigente; consolidação de 2021 a conferir |
-| [Portaria GM/MS nº 841/2012](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/03-portarias-ministeriais/PORTARIA-GMMS-841-2012-RENASES-1A-VERSAO.md) | arts. 1º a 8º e anexo | Publica a lista: cinco componentes, seis critérios de acesso (art. 7º), atualização pela CONITEC (art. 4º) | Vigente; consolidação de 2017 a conferir |
+| [Resolução CIT nº 2/2012](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/03-portarias-ministeriais/RESOLUCAO-CIT-2-2012-DIRETRIZES-RENASES.md) | arts. 1º a 21 | Diretrizes: princípios, finalidade de tornar pública a oferta, relações complementares, acesso, financiamento | Revogada por consolidação (art. 122, IV, da Resolução de Consolidação CIT nº 1/2021); o texto segue vigente nos arts. 26 a 46 da consolidação |
+| [Portaria GM/MS nº 841/2012](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/03-portarias-ministeriais/PORTARIA-GMMS-841-2012-RENASES-1A-VERSAO.md) | arts. 1º a 8º e anexo | Publica a lista: cinco componentes, seis critérios de acesso (art. 7º), atualização pela CONITEC (art. 4º) | Revogada por consolidação (art. 560, III, da Portaria de Consolidação GM/MS nº 1/2017); o texto segue vigente nos arts. 14 a 21 da consolidação, e a lista continua a publicação de 2012 |
 | [Informe RENASES, CIT, fev/2012](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/08-documentos-tecnicos/INFORME-CIT-RENASES-2012-OFICINA-TRIPARTITE.md) | — | Recomendações da oficina tripartite para a primeira versão | Documento histórico, não normativo |
 
 > [!WARNING]
-> **Duas pendências de vigência e dois erros de citação.** Falta conferir se a Portaria 841/2012 foi incorporada à Portaria de Consolidação nº 1/2017 e se a Resolução CIT 2/2012 foi incorporada à Resolução de Consolidação CIT nº 1/2021. No texto original da Portaria 841, a referência ao "art. 42" do decreto corresponde ao art. 43, e a página da lista de critérios cita "Portaria 842" em vez de 841.
+> **Para citar a norma vigente, use as consolidações.** A Portaria 841/2012 está nos arts. 14 a 21 da [Portaria de Consolidação GM/MS nº 1/2017](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/03-portarias-ministeriais/PORTARIA-CONSOLIDACAO-GMMS-1-2017-ORGANIZACAO-E-FUNCIONAMENTO-DO-SUS.md) (Título II, Capítulo II); a Resolução CIT 2/2012 está nos arts. 26 a 46 da Resolução de Consolidação CIT nº 1/2021 (Título I, Capítulo VI). As duas foram revogadas "por consolidação", sem mudança de conteúdo; os números de artigo citados neste caderno são os das normas de origem. Há também dois erros de citação no texto original da Portaria 841, a referência ao "art. 42" do decreto corresponde ao art. 43: a referência ao "art. 42" do decreto corresponde ao art. 43, e a página da lista de critérios cita "Portaria 842" em vez de 841.
 
 ## 3. Como funciona
 
@@ -66,8 +66,10 @@ A lista também perdeu o instrumento que lhe daria efeito regional. O contrato o
 | jan/2012 | Resolução CIT 2/2012 fixa as diretrizes | Resolução CIT 2/2012 |
 | fev/2012 | Oficina tripartite pede ênfase na "suficiência progressiva" | Informe RENASES, CIT |
 | mai/2012 | Portaria 841/2012 publica a lista | Portaria GM/MS 841/2012 |
+| set/2017 | Portaria de Consolidação nº 1/2017 incorpora a Portaria 841 (arts. 14 a 21) e a revoga por consolidação | PRC GM/MS 1/2017, arts. 14 a 21 e 560 |
 | 2012–2016 | Contrato organizativo assinado só por MS e CE; não renovado em dez/2016 | Moreira et al., 2017; Pires et al., 2021 |
 | 2017–2018 | Planejamento regional integrado (Resoluções CIT 23/2017 e 37/2018), sem menção à RENASES | Resoluções CIT 23/2017 e 37/2018 |
+| mar/2021 | Resolução de Consolidação CIT nº 1/2021 incorpora a Resolução CIT 2/2012 (arts. 26 a 46) e a revoga por consolidação | Res. Consolidação CIT 1/2021, arts. 26 a 46 e 122 |
 | 2023 | Política Nacional de Atenção Especializada cita a RENAME, não a RENASES | Portaria GM/MS 1.604/2023 |
 
 > [!IMPORTANT]
