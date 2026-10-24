@@ -23,7 +23,7 @@ Até 22/10/2026 os cadernos eram Google Docs soltos na pasta de conhecimento do 
    | `CHANGELOG.md` | Registro de alterações, da mais recente para a mais antiga |
 
    Podem existir também o `dossie-de-estudo.md` (pesquisa aprofundada) e arquivos de trabalho de uma etapa, com o nome dizendo o que são e a data. Arquivos de trabalho não são mantidos depois: valem como registro.
-5. **Nome de arquivo fixo, versão no conteúdo.** O nome não muda a cada versão. A versão fica no cabeçalho do `caderno.md`, no `CHANGELOG.md` e no histórico do GitHub. Cada versão aprovada recebe uma marca (tag) `cad-<caderno>-vX.Y`, por exemplo `cad-cnes-v1.0`.
+5. **Nome de arquivo fixo, versão no conteúdo.** O nome não muda a cada versão. A versão fica no cabeçalho do `caderno.md`, no `CHANGELOG.md` e no histórico do GitHub. No `CHANGELOG.md`, a entrada de cada versão aprovada registra o código do registro de versão (commit) em que ela foi aprovada; é por ele que se abre o texto aprovado no histórico do GitHub.
 6. **Versões.** `v0.x` é rascunho em discussão; `v1.0` é a primeira aprovada pelo Victor; correção pequena sobe o segundo número (`v1.1`); mudança de estrutura sobe o primeiro.
 7. **Normas não são copiadas.** O caderno cita a norma pelo nome e aponta para a transcrição no [repositório de governança documental](https://github.com/victorarimatea/doc-governanca-ses-df), onde também está o nome-base do PDF original guardado na pasta compartilhada de normas do Drive.
 8. **Procedência sempre.** Toda afirmação normativa tem fonte primária e data de conferência. O que não foi verificado fica marcado como pendente, nunca reconstruído de memória.

@@ -4,7 +4,7 @@ Da mais recente para a mais antiga.
 
 ## v1.0 — 2026-10-23
 
-- Aprovado pelo Victor em 23/10/2026, sem alteração de conteúdo em relação à v0.3 (commit `ec2f367`). A marca `cad-renases-v1.0` ainda não foi criada no GitHub: a sessão de trabalho não tem permissão para criar marcas; pode ser criada pelo Victor na página de releases do repositório, apontando para esse commit.
+- Aprovado pelo Victor em 23/10/2026, sem alteração de conteúdo em relação à v0.3 (commit `ec2f367`). O texto aprovado é o do registro `ec2f367` no histórico do GitHub.
 - Próximo passo: capítulo RENASES na ferramenta (fila de pendências da ferramenta).
 
 ## v0.3 — 2026-10-23
