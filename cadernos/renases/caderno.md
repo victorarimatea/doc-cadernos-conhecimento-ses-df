@@ -24,7 +24,7 @@ Ela **não** é tabela de preços, **não** diz qual hospital executa cada servi
 
 ## 2. Origem e base normativa
 
-| Norma | Dispositivo | O que estabelece | Situação (22/10/2026) |
+| Norma | Dispositivo | O que estabelece | Situação (24/10/2026) |
 |---|---|---|---|
 | [Lei nº 8.080/1990](https://www.planalto.gov.br/ccivil_03/leis/l8080.htm) | art. 7º, II | Integralidade da assistência | Vigente |
 | [Decreto nº 7.508/2011](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/01-legislacao-federal/DECRETO-FEDERAL-7508-2011-ORGANIZACAO-DO-SUS.md) | arts. 21 a 24 e 43 | Cria a RENASES; consolidação a cada dois anos (art. 22, parágrafo único); responsabilidades pactuadas entre os entes (art. 23); relações complementares (art. 24); a primeira RENASES é a soma do que já era ofertado (art. 43) | Vigente; a única alteração (Decreto 11.161/2022) não toca a RENASES |
@@ -33,7 +33,7 @@ Ela **não** é tabela de preços, **não** diz qual hospital executa cada servi
 | [Informe RENASES, CIT, fev/2012](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/08-documentos-tecnicos/INFORME-CIT-RENASES-2012-OFICINA-TRIPARTITE.md) | — | Recomendações da oficina tripartite para a primeira versão | Documento histórico, não normativo |
 
 > [!WARNING]
-> **Para citar a norma vigente, use as consolidações.** A Portaria 841/2012 está nos arts. 14 a 21 da [Portaria de Consolidação GM/MS nº 1/2017](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/03-portarias-ministeriais/PORTARIA-CONSOLIDACAO-GMMS-1-2017-ORGANIZACAO-E-FUNCIONAMENTO-DO-SUS.md) (Título II, Capítulo II); a Resolução CIT 2/2012 está nos arts. 26 a 46 da Resolução de Consolidação CIT nº 1/2021 (Título I, Capítulo VI). As duas foram revogadas "por consolidação", sem mudança de conteúdo; os números de artigo citados neste caderno são os das normas de origem. Há também dois erros de citação no texto original da Portaria 841, a referência ao "art. 42" do decreto corresponde ao art. 43: a referência ao "art. 42" do decreto corresponde ao art. 43, e a página da lista de critérios cita "Portaria 842" em vez de 841.
+> **Para citar a norma vigente, use as consolidações.** A Portaria 841/2012 está nos arts. 14 a 21 da [Portaria de Consolidação GM/MS nº 1/2017](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/03-portarias-ministeriais/PORTARIA-CONSOLIDACAO-GMMS-1-2017-ORGANIZACAO-E-FUNCIONAMENTO-DO-SUS.md) (Título II, Capítulo II); a Resolução CIT 2/2012 está nos arts. 26 a 46 da Resolução de Consolidação CIT nº 1/2021 (Título I, Capítulo VI). As duas foram revogadas "por consolidação", sem mudança de conteúdo; os números de artigo citados neste caderno são os das normas de origem. Há também dois erros de citação no texto original da Portaria 841: a referência ao "art. 42" do decreto corresponde ao art. 43, e a página da lista de critérios cita "Portaria 842" em vez de 841.
 
 ## 3. Como funciona
 
