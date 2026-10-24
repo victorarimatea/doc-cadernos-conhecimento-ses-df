@@ -10,7 +10,7 @@ situacao: com pendências
 
 # RENASES: a lista do que o SUS oferece e por qual porta
 
-Conhecimento · RENASES · **v1.0** · aprovado em 23/10/2026 · base normativa conferida em fonte primária em 22/10/2026, com [pendências](README.md#pendências)
+Conhecimento · RENASES · **v1.1** (correção de 24/10/2026, aguarda aprovação; v1.0 aprovada em 23/10/2026) · base normativa conferida em fonte primária em 22 e 24/10/2026, com [pendências](README.md#pendências)
 *Material de estudo. Não substitui a publicação oficial das normas citadas.*
 
 ## 1. O que é
