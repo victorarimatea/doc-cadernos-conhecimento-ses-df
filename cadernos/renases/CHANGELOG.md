@@ -6,6 +6,8 @@ Da mais recente para a mais antiga.
 
 - Pendências de vigência resolvidas: a Portaria 841/2012 está nos arts. 14 a 21 da Portaria de Consolidação GM/MS nº 1/2017, que a revoga por consolidação (art. 560, III); a Resolução CIT 2/2012 está nos arts. 26 a 46 da Resolução de Consolidação CIT nº 1/2021, que a revoga por consolidação (art. 122, IV). Conferido nos textos (transcrição da PRC 1/2017 e PDF da consolidação CIT publicado pelo Ministério da Saúde). Ajustados a tabela de base normativa, o destaque de alerta e a linha do tempo. Sem outra mudança de conteúdo. Origem: chat do caderno CNES, a pedido do Victor.
 
+- Complemento de 25/10/2026: a Resolução de Consolidação CIT nº 1/2021 foi transcrita em `doc-governanca-ses-df` (v1.7); o destaque de vigência passa a ter o link para a transcrição. Sem mudança de texto.
+
 ## v1.0 — 2026-10-23
 
 - Aprovado pelo Victor em 23/10/2026, sem alteração de conteúdo em relação à v0.3 (commit `ec2f367`). O texto aprovado é o do registro `ec2f367` no histórico do GitHub.
