@@ -90,7 +90,7 @@ transcrição). Para isso, basta deixá-los numa pasta conectada.
    https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prc0001_03_10_2017.html
 2. Portaria GM/MS nº 1.646/2015 na BVS (para comparar com a cópia da ANS e ver se há texto
    compilado): https://bvsms.saude.gov.br/bvs/saudelegis/gm/2015/prt1646_02_10_2015.html
-3. Portaria SAS/MS nº 118/2014, republicada, na BVS:
+3. ~~Portaria SAS/MS nº 118/2014, republicada~~ — **vigência resolvida em 25/10/2026**: as duas redações foram localizadas pelo Victor e transcritas; a Portaria de Consolidação SAES/MS nº 1/2022 reproduz a republicada nos arts. 227 a 230 e a revoga por consolidação (art. 432, LXIV). Fica só a comparação com a página da BVS, fora do ar ("em manutenção") desde pelo menos 23/10/2026:
    https://bvsms.saude.gov.br/bvs/sas/Links%20finalizados%20SAS%202014/prt0118_12_06_2014_rep.html
 4. InfoSaúde-DF, base legal do CNES e orientações de cadastro (para confirmar onde a GECAD fica
    na estrutura atual):
