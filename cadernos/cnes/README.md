@@ -23,7 +23,7 @@
 |---|---|---|
 | Portaria GM/MS nº 1.646/2015 (institui o CNES na forma atual) | texto vigente na consolidação (arts. 358 a 373 e 384 a 390) | conferida em 22/10/2026 (cópia oficial no gov.br da ANS; DOU de 05/10/2015); revogada por consolidação (PRC 1/2017, art. 560, XLII), conferido em 24/10/2026 |
 | Portaria de Consolidação GM/MS nº 1/2017 (Título VII, Capítulo IV, arts. 358 a 390; reúne a 1.646/2015, a 2.022/2017 e a 1.321/2016) | [transcrita](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/03-portarias-ministeriais/PORTARIA-CONSOLIDACAO-GMMS-1-2017-ORGANIZACAO-E-FUNCIONAMENTO-DO-SUS.md) em 24/10/2026 | conferida em 24/10/2026; texto até outubro de 2018, alterações posteriores pendentes |
-| Portaria de Consolidação SAES/MS nº 1/2022 (Título III, Capítulo III, arts. 217 a 290; reúne a 118/2014 e outras portarias SAS do cadastro) | não transcrita | lida em 25/10/2026 na cópia da página do DOU guardada pela SES-MG (315 páginas); alterações posteriores a 31/03/2022 pendentes |
+| Portaria de Consolidação SAES/MS nº 1/2022 (Título III, Capítulo III, arts. 217 a 290; reúne a 118/2014 e outras portarias SAS do cadastro) | [transcrita](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/03-portarias-ministeriais/PORTARIA-CONSOLIDACAO-SAESMS-1-2022-ATENCAO-ESPECIALIZADA.md) em 25/10/2026 (315 páginas, página do DOU guardada pela SES-MG) | conferida em 25/10/2026; alterações posteriores a 31/03/2022 pendentes |
 | Portaria SAS/MS nº 118/2014 (desativação após seis meses sem atualização), redações original (DOU de 19/02/2014) e republicada (DOU de 16/06/2014) | [republicada](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/03-portarias-ministeriais/PORTARIA-SASMS-118-2014-DESATIVACAO-CNES-REPUBLICADA.md) e [original](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/03-portarias-ministeriais/PORTARIA-SASMS-118-2014-DESATIVACAO-CNES-ORIGINAL.md), transcritas em 25/10/2026 | PDFs localizados pelo Victor em 25/10/2026; revogada por consolidação (PRC SAES/MS 1/2022, art. 432, LXIV), o texto segue nos arts. 227 a 230 |
 | Portaria SAS/MS nº 511/2000 (ficha cadastral e banco nacional; origem do cadastro) | não transcrita | conferida em 22/10/2026 (cópia da SES-AM) |
 | Portaria GM/MS nº 2.022/2017 (tipo de estabelecimento derivado das atividades) | texto vigente na consolidação (arts. 374 a 378) | conferida em 22/10/2026 (cópia municipal); revogada por consolidação (art. 560, XLIII) |
@@ -50,7 +50,7 @@
 ## Pendências
 
 - Conferir alterações da Portaria de Consolidação nº 1/2017 posteriores a outubro de 2018 no capítulo do CNES.
-- Transcrever a Portaria de Consolidação SAES/MS nº 1/2022, ao menos o capítulo do CNES (arts. 217 a 290), e conferir alterações posteriores a março de 2022.
+- Conferir alterações da Portaria de Consolidação SAES/MS nº 1/2022 posteriores a março de 2022 no capítulo do CNES (arts. 217 a 290).
 - Confirmar a que superintendência a GECAD pertence na estrutura atual da SES-DF (reestruturação de 2026).
 - Ler a Wiki do CNES (não abriu em 22/10/2026) para conferir as regras de compatibilidade citadas a partir do caderno de SIGTAP.
 - Aprovação do Victor para a v1.0.

@@ -6,6 +6,7 @@ Da mais recente para a mais antiga.
 
 - Vigência da Portaria SAS/MS nº 118/2014 conferida, a partir das duas redações localizadas pelo Victor (original de 19/02/2014 e republicada de 16/06/2014), agora transcritas em `doc-governanca-ses-df`. A Portaria de Consolidação SAES/MS nº 1/2022 reproduz a republicada nos arts. 227 a 230 (Título III, Capítulo III, "Do CNES") e a revoga por consolidação (art. 432, LXIV); lida na cópia da página do DOU guardada pela SES-MG.
 - No caderno: nova linha da Portaria de Consolidação SAES/MS nº 1/2022 na base normativa (o capítulo do CNES vai dos arts. 217 a 290); situação da 118/2014 passa de "a conferir" a "revogada por consolidação"; destaque "Cite a consolidação" cobre as duas consolidações; regra de desativação citada pelos arts. 227 e 228, com o critério de "sem atualização" (sem envio ou envio rejeitado); linha do tempo ganha mar/2022; fontes atualizadas. Aguarda aprovação. Origem: chat do caderno CNES.
+- Complemento do mesmo dia: a Portaria de Consolidação SAES/MS nº 1/2022 foi transcrita em `doc-governanca-ses-df` (v1.6); os links do caderno passam a apontar para a transcrição. Sem mudança de texto.
 
 ## v0.1 — 2026-10-24 (Etapa 4)
 
