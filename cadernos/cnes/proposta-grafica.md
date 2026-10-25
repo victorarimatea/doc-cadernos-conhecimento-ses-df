@@ -40,7 +40,7 @@ A versão do caderno muda as seções para a ordem fixa do modelo de caderno v1.
 | 1 | O que é | texto corrido | Ideia-chave "Cadastro declarado, com efeito real" |
 | 2 | Origem e base normativa | quadro Norma · Dispositivo · O que estabelece · Situação | Atenção "Cite a consolidação" |
 | 3 | Como funciona | texto; quadro dos blocos do cadastro; quadro "Como consultar" | — |
-| 4 | Situação atual e atualização | texto | Linha do tempo 2000–2017 |
+| 4 | Situação atual e atualização | texto | Linha do tempo 2000–2022 |
 | 5 | Por que importa para o gestor hospitalar | lista numerada | Leitura do projeto "Três registros, três jeitos" |
 | 6 | Não confundir | quadro Instrumento · Pergunta · Erro comum | Não confundir "Cadastro não é realidade" |
 | 7 | Cuidados e limites | lista com marcadores | Atenção "Código CNES é texto" |

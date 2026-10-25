@@ -3,14 +3,14 @@ id: cnes
 nome_curto: CNES
 titulo: "CNES: o cadastro oficial dos estabelecimentos de saúde"
 resumo: "O que o Cadastro Nacional de Estabelecimentos de Saúde registra, quem responde por ele, com que frequência deve ser atualizado e como ler os dados sem confundir cadastro com capacidade real."
-versao: v0.1
-revisao: 2026-10-24
+versao: v0.2
+revisao: 2026-10-25
 situacao: com pendências
 ---
 
 # CNES: o cadastro oficial dos estabelecimentos de saúde
 
-Conhecimento · CNES · **v0.1 (rascunho)** · 2026-10-24 · base normativa conferida em fonte primária em 22 e 24/10/2026, com [pendências](README.md#pendências)
+Conhecimento · CNES · **v0.2 (rascunho)** · 2026-10-25 · base normativa conferida em fonte primária em 22, 24 e 25/10/2026, com [pendências](README.md#pendências)
 *Material de estudo. Não substitui a publicação oficial das normas citadas.*
 
 ## 1. O que é
@@ -26,17 +26,18 @@ O CNES **não** é instrumento de controle nem de indução de política. A pró
 
 ## 2. Origem e base normativa
 
-| Norma | Dispositivo | O que estabelece | Situação (24/10/2026) |
+| Norma | Dispositivo | O que estabelece | Situação (25/10/2026) |
 |---|---|---|---|
 | [Portaria de Consolidação GM/MS nº 1/2017](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/03-portarias-ministeriais/PORTARIA-CONSOLIDACAO-GMMS-1-2017-ORGANIZACAO-E-FUNCIONAMENTO-DO-SUS.md) | Título VII, Capítulo IV, arts. 358 a 390 | Institui o CNES; definições; obrigatoriedade; responsabilidades; atualização mínima mensal; fluxos de envio; desativação de cadastro irregular; tipo de estabelecimento por atividade; formas de contratação; comitê consultivo; dados públicos | Vigente. Texto transcrito com alterações até outubro de 2018; alterações posteriores a conferir |
 | [Portaria GM/MS nº 1.646/2015](https://www.gov.br/ans/pt-br/centrais-de-conteudo/portaria-n-1646-de-02-de-outubro-de-2015-cnes-pdf) | arts. 1º a 25 | Norma de origem do CNES na forma atual; revogou a Portaria GM/MS nº 1.890/1997 (art. 25) | Revogada por consolidação (PRC 1/2017, art. 560, XLII); o texto segue nos arts. 358 a 373 e 384 a 390 |
 | [Portaria GM/MS nº 2.022/2017](https://www.jacarei.sp.gov.br/wp-content/uploads/2021/02/Portaria-2022-de-7-de-agosto-de-2017.pdf) | arts. 1º a 5º | O tipo de estabelecimento passa a sair das atividades que ele realiza | Revogada por consolidação (art. 560, XLIII); o texto segue nos arts. 374 a 378 |
 | Portaria GM/MS nº 1.321/2016 | arts. 1º a 6º | Terminologia das formas de contratação dos profissionais, no lugar da antiga tabela de vínculos | Revogada por consolidação (art. 560, XLIV); o texto segue nos arts. 379 a 383 |
-| [Portaria SAS/MS nº 118/2014, republicada](https://saude.campinas.sp.gov.br/saude/lista_legislacoes/legis_2014/U_PT-MS-SAS-118-REP_180214.pdf) | arts. 1º e 2º | Estabelecimento sem atualização há mais de seis meses é marcado como desativado e fica impedido de apresentar produção e pedir habilitação | Vigência atual a conferir |
+| [Portaria de Consolidação SAES/MS nº 1/2022](https://www.in.gov.br/en/web/dou/-/portaria-de-consolidacao-n-1-de-22-de-fevereiro-de-2022-389846459) | Título III, Capítulo III, arts. 217 a 290 | Reúne as normas do cadastro vindas de portarias da antiga Secretaria de Atenção à Saúde: registro de habilitações, atualização e desativação, CNPJ, contratos com o gestor, geração do arquivo para os sistemas de produção | Vigente. Texto não transcrito; alterações posteriores a março de 2022 a conferir |
+| [Portaria SAS/MS nº 118/2014, republicada](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/03-portarias-ministeriais/PORTARIA-SASMS-118-2014-DESATIVACAO-CNES-REPUBLICADA.md) | arts. 1º a 4º | Estabelecimento sem atualização há mais de seis meses é marcado como desativado e fica impedido de apresentar produção e pedir habilitação | Revogada por consolidação (PRC SAES/MS 1/2022, art. 432, LXIV); o texto segue nos arts. 227 a 230 |
 | [Portaria SAS/MS nº 511/2000](https://www.saude.am.gov.br/wp-content/uploads/2025/01/PT-CNES-PORTARIA-No-511-DE29-DE-DEZEMBRO-DE-2000.pdf) | — | Ficha cadastral dos estabelecimentos e banco de dados nacional: origem do cadastro atual | Histórica; vigência não conferida |
 
 > [!WARNING]
-> **Cite a consolidação.** As Portarias 1.646/2015, 2.022/2017 e 1.321/2016 foram revogadas "por consolidação" em 2017, sem mudança de conteúdo: o texto vigente está na Portaria de Consolidação nº 1/2017. Neste caderno, os artigos citados são os da consolidação. Em manuais e normas antigos, a atualização mensal aparece como art. 13 da 1.646/2015; na consolidação é o **art. 370**.
+> **Cite a consolidação.** As Portarias 1.646/2015, 2.022/2017 e 1.321/2016 foram revogadas "por consolidação" em 2017, e a Portaria SAS 118/2014, em 2022, sem mudança de conteúdo: o texto vigente está na Portaria de Consolidação GM/MS nº 1/2017 e na Portaria de Consolidação SAES/MS nº 1/2022. Neste caderno, os artigos citados são os das consolidações. Em manuais e normas antigos, a atualização mensal aparece como art. 13 da 1.646/2015; na consolidação é o **art. 370**.
 
 ## 3. Como funciona
 
@@ -70,7 +71,7 @@ O CNES **não** é instrumento de controle nem de indução de política. A pró
 
 A atualização é **obrigatória e no mínimo mensal**, ou logo depois de qualquer mudança, sempre por meio eletrônico (art. 370). Manter o cadastro inclui **reafirmar que nada mudou** (art. 360, III): mês sem mudança também exige envio. A base nacional é fechada por **competência mensal**, e o DATASUS divulga os dados de cada competência.
 
-Sem atualização por mais de seis meses, o estabelecimento é marcado como **desativado** e não pode apresentar produção ambulatorial e hospitalar, pedir novas habilitações nem entrar em novos programas (Portaria SAS 118/2014, arts. 1º e 2º). Volta a ficar ativo quando envia nova atualização sem rejeição.
+Sem atualização por mais de seis meses, o estabelecimento é marcado como **desativado** e não pode apresentar produção ambulatorial e hospitalar, pedir novas habilitações nem entrar em novos programas. Conta como sem atualização o cadastro que não foi enviado à base nacional nesse período ou que foi enviado com rejeição. Volta a ficar ativo quando envia nova atualização sem rejeição ([PRC SAES/MS 1/2022](https://www.in.gov.br/en/web/dou/-/portaria-de-consolidacao-n-1-de-22-de-fevereiro-de-2022-389846459), arts. 227 e 228, que vêm da Portaria SAS 118/2014).
 
 Na SES-DF, a área técnica do cadastro é a **Gerência de Cadastramento de Estabelecimento e Usuários do SUS (GECAD)**, contato cnes.gecad@saude.df.gov.br. Depois do envio, a atualização leva cerca de 15 dias para aparecer, segundo orientação da própria SES-DF aos prestadores.
 
@@ -83,6 +84,7 @@ Na SES-DF, a área técnica do cadastro é a **Gerência de Cadastramento de Est
 | jul/2016 | Formas de contratação dos profissionais | Portaria GM/MS 1.321/2016 |
 | ago/2017 | Tipo do estabelecimento passa a sair das atividades | Portaria GM/MS 2.022/2017 |
 | set/2017 | As três portarias entram na Portaria de Consolidação nº 1/2017 | PRC GM/MS 1/2017, arts. 358 a 390 e 560 |
+| mar/2022 | A regra de desativação entra na Portaria de Consolidação SAES/MS nº 1/2022 | PRC SAES/MS 1/2022, arts. 227 a 230 e 432 |
 
 ## 5. Por que importa para o gestor hospitalar
 
@@ -93,7 +95,7 @@ Na SES-DF, a área técnica do cadastro é a **Gerência de Cadastramento de Est
 5. **Responsabilidade.** A direção responde pelo cadastro da unidade. A atualização depende de quem conhece a operação: direção, núcleos de faturamento e responsáveis técnicos.
 
 > [!IMPORTANT]
-> **Interpretação do projeto, não norma.** Três registros contam a mesma unidade de três jeitos: o CNES diz o que ela **tem** e está apta a registrar; a carteira diz o que ela **declara fazer**; a produção mostra o que ela **fez**. A carteira ganha força quando os três se confirmam. Base: PRC 1/2017, arts. 359 e 364; Portaria SAS 118/2014, art. 2º; caderno de SIGTAP.
+> **Interpretação do projeto, não norma.** Três registros contam a mesma unidade de três jeitos: o CNES diz o que ela **tem** e está apta a registrar; a carteira diz o que ela **declara fazer**; a produção mostra o que ela **fez**. A carteira ganha força quando os três se confirmam. Base: PRC 1/2017, arts. 359 e 364; PRC SAES/MS 1/2022, art. 228; caderno de SIGTAP.
 
 ## 6. Não confundir
 
@@ -127,7 +129,7 @@ Na SES-DF, a área técnica do cadastro é a **Gerência de Cadastramento de Est
 2. **Habilitação.** O Ministério da Saúde habilita o hospital como centro de referência; a habilitação, com a portaria e a vigência, é registrada no CNES.
 3. **CNES.** Além da habilitação, o cadastro precisa mostrar o serviço, os leitos e os profissionais compatíveis, e estar em dia.
 4. **SIGTAP.** Os procedimentos da cirurgia exigem a habilitação; sem ela no cadastro, a produção é rejeitada.
-5. **Se o cadastro parar.** Seis meses sem atualização e o hospital é desativado: deixa de apresentar produção, inclusive a desta cirurgia (Portaria SAS 118/2014).
+5. **Se o cadastro parar.** Seis meses sem atualização e o hospital é desativado: deixa de apresentar produção, inclusive a desta cirurgia (PRC SAES/MS 1/2022, art. 228).
 6. **Carteira.** O hospital declara se faz; a declaração pode ser conferida contra a habilitação no CNES e a produção registrada.
 
 ## 9. Nesta ferramenta
@@ -156,7 +158,8 @@ Na SES-DF, a área técnica do cadastro é a **Gerência de Cadastramento de Est
 | Portaria de Consolidação GM/MS nº 1/2017, arts. 358 a 390 e 560 — [transcrição](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/03-portarias-ministeriais/PORTARIA-CONSOLIDACAO-GMMS-1-2017-ORGANIZACAO-E-FUNCIONAMENTO-DO-SUS.md) | Norma | 24/10/2026 |
 | Portaria GM/MS nº 1.646/2015 — [cópia no gov.br da ANS](https://www.gov.br/ans/pt-br/centrais-de-conteudo/portaria-n-1646-de-02-de-outubro-de-2015-cnes-pdf) | Norma | 22/10/2026 |
 | Portaria GM/MS nº 2.022/2017 — [cópia da Prefeitura de Jacareí](https://www.jacarei.sp.gov.br/wp-content/uploads/2021/02/Portaria-2022-de-7-de-agosto-de-2017.pdf) | Norma | 22/10/2026 |
-| Portaria SAS/MS nº 118/2014, republicada — [cópia da Prefeitura de Campinas](https://saude.campinas.sp.gov.br/saude/lista_legislacoes/legis_2014/U_PT-MS-SAS-118-REP_180214.pdf) | Norma | 22/10/2026 |
+| Portaria de Consolidação SAES/MS nº 1/2022, Título III, Capítulo III, e art. 432 — [DOU de 31/03/2022](https://www.in.gov.br/en/web/dou/-/portaria-de-consolidacao-n-1-de-22-de-fevereiro-de-2022-389846459), lida na cópia da página guardada pela SES-MG | Norma | 25/10/2026 |
+| Portaria SAS/MS nº 118/2014, redação republicada (DOU de 16/06/2014) — [transcrição](https://github.com/victorarimatea/doc-governanca-ses-df/blob/main/03-portarias-ministeriais/PORTARIA-SASMS-118-2014-DESATIVACAO-CNES-REPUBLICADA.md) | Norma | 25/10/2026 |
 | Portaria SAS/MS nº 511/2000 — [cópia da SES-AM](https://www.saude.am.gov.br/wp-content/uploads/2025/01/PT-CNES-PORTARIA-No-511-DE29-DE-DEZEMBRO-DE-2000.pdf) | Norma | 22/10/2026 |
 | Portal do CNES — [cnes.datasus.gov.br](https://cnes.datasus.gov.br) | Dado oficial | 22/10/2026 |
 | TabNet do CNES, estabelecimentos do DF — [DATASUS](https://tabnet.datasus.gov.br/cgi/deftohtm.exe?cnes/cnv/estabdf.def) | Dado oficial | 22/10/2026 |
@@ -168,4 +171,5 @@ Na SES-DF, a área técnica do cadastro é a **Gerência de Cadastramento de Est
 
 | Versão | Data | O que mudou |
 |---|---|---|
+| v0.2 | 2026-10-25 | Vigência da Portaria SAS 118/2014 conferida: revogada por consolidação na Portaria de Consolidação SAES/MS nº 1/2022, que entra na base normativa (arts. 217 a 290 sobre o CNES); regra de desativação citada pelos arts. 227 e 228; linha do tempo até 2022. Aguarda aprovação |
 | v0.1 | 2026-10-24 | Primeiro rascunho no modelo de caderno v1.1, a partir do capítulo publicado na ferramenta (v0.3.10), da linha de base e da verificação em fonte primária. Aguarda aprovação |

@@ -44,7 +44,7 @@ doc-cadernos-conhecimento-ses-df/
 
 | Caderno | Versão | Situação | Pasta |
 |---|---|---|---|
-| CNES | v0.1 (rascunho) | Rascunho no modelo v1.1, aguarda aprovação; capítulo já publicado na ferramenta | [`cadernos/cnes/`](./cadernos/cnes/) |
+| CNES | v0.2 (rascunho) | Rascunho no modelo v1.1, aguarda aprovação; capítulo já publicado na ferramenta | [`cadernos/cnes/`](./cadernos/cnes/) |
 | SIGTAP | v1.0 | Capítulo publicado na ferramenta tem conteúdo que o caderno não tem | [`cadernos/sigtap/`](./cadernos/sigtap/) |
 | Carteira de serviços e Carta de Serviços | v1.2 | Faltam Cartas de Serviços e Decreto DF 36.419/2015 | [`cadernos/carteira-servicos/`](./cadernos/carteira-servicos/) |
 | Rede hospitalar do DF | v1.0 | Diverge do capítulo sobre URD | [`cadernos/rede-hospitalar/`](./cadernos/rede-hospitalar/) |

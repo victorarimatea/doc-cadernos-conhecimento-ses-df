@@ -35,7 +35,7 @@ Até 22/10/2026 os cadernos eram Google Docs soltos na pasta de conhecimento do 
 
 | Caderno | Capítulo na ferramenta | Versão vigente | Situação |
 |---|---|---|---|
-| [CNES](cnes/README.md) | Conhecimento · CNES | v0.1 (rascunho) | Sem caderno até 22/10/2026; rascunho no modelo v1.1 em 24/10/2026, aguarda aprovação |
+| [CNES](cnes/README.md) | Conhecimento · CNES | v0.2 (rascunho) | Sem caderno até 22/10/2026; rascunho no modelo v1.1 em 24/10/2026, v0.2 em 25/10/2026, aguarda aprovação |
 | [SIGTAP](sigtap/README.md) | Conhecimento · SIGTAP | v1.0 | Migrado; capítulo tem conteúdo que o caderno não tem |
 | [Carteira de serviços](carteira-servicos/README.md) | Conhecimento · Carteira e Carta de Serviços | v1.2 | Migrado; faltam Cartas de Serviços e Decreto DF 36.419/2015 |
 | [Rede hospitalar do DF](rede-hospitalar/README.md) | Conhecimento · Rede hospitalar do DF | v1.0 | Migrado; diverge do capítulo sobre URD |
