@@ -173,7 +173,7 @@ Na SES-DF, a área técnica do cadastro é a **GECAD**, contato cnes.gecad@saude
 | TabNet | Quantos estabelecimentos ativos há, por competência? | Usar como lista completa: ele omite os desativados |
 
 > [!CAUTION]
-> **Cadastro não é realidade.** O CNES mostra o que foi declarado no último envio. Leito, sala ou equipamento cadastrado pode estar fechado, parado ou sem equipe. Para saber o que funciona, é preciso outra fonte, como o censo da unidade ou a contagem local.
+> **O cadastro não representa necessariamente a realidade.** O CNES mostra o que foi declarado no último envio. Leito, sala ou equipamento cadastrado pode estar fechado, parado ou sem equipe. Para saber o que funciona, é preciso outra fonte, como o censo da unidade ou a contagem local.
 
 ## 7. Cuidados e limites
 

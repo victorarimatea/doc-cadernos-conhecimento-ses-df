@@ -12,6 +12,7 @@ Da mais recente para a mais antiga.
 - Seções 6 e 7: linha "Leito não SUS" no quadro; natureza jurídica de hospital gerido por organização social em detalhe recolhível (PRC SAES/MS 1/2022, arts. 235 e 236); leito não SUS em hospital público com três consequências e segunda Leitura do projeto (padrão observado nos dados de 08/2026: leito SUS de UTI e cuidados intermediários igual ao habilitado).
 - Seção 9: o bloco gerado passa a incluir os leitos não SUS dos hospitais públicos comparados com os habilitados.
 - Complemento do mesmo dia (pedido do Victor): listas por bloco em ordem alfabética, com selos de contagem "Rede SES-DF" e "Outros do DF" que abrem um painel com todos os hospitais do DF que têm o item; equipamentos passam a ser todos os do cadastro, não um recorte. Muda só a linha que descreve as listas no caderno.
+- Ajuste de redação pedido pelo Victor (26/10/2026, tarde): o destaque da seção 6 passa de "Cadastro não é realidade" a "O cadastro não representa necessariamente a realidade", formulação mais adequada a texto oficial. Na prévia, os equipamentos sem descrição na tabela auxiliar do DATASUS passam a aparecer com o nome mostrado pelo portal do CNES.
 - Aguarda aprovação. Origem: chat do caderno CNES.
 
 ## v0.2 — 2026-10-25

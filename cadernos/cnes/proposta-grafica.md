@@ -42,7 +42,7 @@ A versão do caderno muda as seções para a ordem fixa do modelo de caderno v1.
 | 3 | Como funciona | texto; quadro dos blocos do cadastro; quadro "Como consultar" | — |
 | 4 | Situação atual e atualização | texto | Linha do tempo 2000–2022 |
 | 5 | Por que importa para o gestor hospitalar | lista numerada | Leitura do projeto "Três registros, três jeitos" |
-| 6 | Não confundir | quadro Instrumento · Pergunta · Erro comum | Não confundir "Cadastro não é realidade" |
+| 6 | Não confundir | quadro Instrumento · Pergunta · Erro comum | Não confundir "O cadastro não representa necessariamente a realidade" (até a v0.3: "Cadastro não é realidade") |
 | 7 | Cuidados e limites | lista com marcadores | Atenção "Código CNES é texto" |
 | 8 | Exemplo integrado | lista numerada (cirurgia bariátrica) | — |
 | 9 | Nesta ferramenta | bloco gerado (os quatro indicadores atuais, o panorama da rede por grupo e o critério, links para Hospitais e Capacidade) | Na ferramenta "Recortes diferentes" |
