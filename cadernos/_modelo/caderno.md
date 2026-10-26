@@ -25,8 +25,15 @@ Conhecimento · <Nome curto> · **v0.1 (rascunho)** · AAAA-MM-DD · <situação
 
 ## 2. Origem e base normativa
 
-| Norma | Dispositivo | O que estabelece | Vigência |
-|---|---|---|---|
+**Normas vigentes, por esfera**
+
+| Esfera | Norma | Dispositivo | O que estabelece | Situação (dd/mm/aaaa) |
+|---|---|---|---|---|
+
+**Normas de origem**
+
+| Ano | Norma | Problema que enfrentou (segundo a própria norma) | O que criou | Onde está hoje |
+|---|---|---|---|---|
 
 ## 3. Como funciona
 

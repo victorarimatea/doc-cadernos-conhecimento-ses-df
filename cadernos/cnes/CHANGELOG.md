@@ -2,6 +2,17 @@
 
 Da mais recente para a mais antiga.
 
+## v0.3 — 2026-10-26
+
+- Revisão pedida pelo Victor em 26/10/2026, sobre a análise da v0.2 (crítica do mesmo dia). Itens aprovados: ordenamento da base normativa em dois blocos; quadro "Quem faz o quê"; detalhes recolhíveis em teste; listas por bloco com link para fichas; portarias de origem; leitura completa do leito não SUS; complementos de redação apontados na análise.
+- Seção 2: normas vigentes por esfera (PRC GM/MS 1/2017, PRC SAES/MS 1/2022 e Regimento Interno da SES-DF, Decreto 39.546/2018) e normas de origem em ordem cronológica (511/2000, 118/2014, 1.646/2015, 1.321/2016, 2.022/2017), com o problema que cada uma enfrentou segundo os considerandos e onde o texto está hoje; linha do tempo movida para cá, com o Regimento (dez/2018). As três portarias de origem transcritas em `doc-governanca-ses-df` v1.8 passam a ter link.
+- Seção 3: quadro "Quem faz o quê" com a divisão do Regimento (NCAIS, Núcleos de Gestão de Pessoas, unidades de referência distrital, GECAD, GCCH, DICS) e as competências federais; aviso sobre IGESDF, organização social e reestruturações; papel do profissional (art. 365) explicado; caminhos de envio no DF; habilitação com quantidade de leitos no quadro dos blocos; marcador das listas geradas; detalhe recolhível sobre o conceito de estabelecimento e a dedução do tipo (anexo da 2.022/2017).
+- Seção 4: quadro dos acontecimentos que exigem atualização, quem registra e o que acontece sem registro; certidão negativa (PRC SAES/MS 1/2022, art. 226); quem registra cada habilitação (arts. 217, 220 a 222 e Anexo XXXIX).
+- Seção 5: exemplo construído de rejeição por profissional sem vínculo e por habilitação vencida; efeito do registro errado fora da unidade (arts. 362, 367, V, 368, IV, e 372).
+- Seções 6 e 7: linha "Leito não SUS" no quadro; natureza jurídica de hospital gerido por organização social em detalhe recolhível (PRC SAES/MS 1/2022, arts. 235 e 236); leito não SUS em hospital público com três consequências e segunda Leitura do projeto (padrão observado nos dados de 08/2026: leito SUS de UTI e cuidados intermediários igual ao habilitado).
+- Seção 9: o bloco gerado passa a incluir os leitos não SUS dos hospitais públicos comparados com os habilitados.
+- Aguarda aprovação. Origem: chat do caderno CNES.
+
 ## v0.2 — 2026-10-25
 
 - Vigência da Portaria SAS/MS nº 118/2014 conferida, a partir das duas redações localizadas pelo Victor (original de 19/02/2014 e republicada de 16/06/2014), agora transcritas em `doc-governanca-ses-df`. A Portaria de Consolidação SAES/MS nº 1/2022 reproduz a republicada nos arts. 227 a 230 (Título III, Capítulo III, "Do CNES") e a revoga por consolidação (art. 432, LXIV); lida na cópia da página do DOU guardada pela SES-MG.

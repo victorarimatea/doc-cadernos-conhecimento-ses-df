@@ -26,7 +26,7 @@ doc-cadernos-conhecimento-ses-df/
 ├── README.md                  Este arquivo
 ├── INDICE.md                  Mapa de todos os arquivos
 ├── backlog-versoes.md         Histórico de versões do repositório
-├── MODELO-CADERNO.md          Modelo de caderno v1.1 — regra de escrita, apresentação, versionamento e conferência
+├── MODELO-CADERNO.md          Modelo de caderno v1.2 — regra de escrita, apresentação, versionamento e conferência
 ├── vocabulario-controlado.md  Conceitos com definição curta, sinônimos e caderno principal (rascunho)
 └── cadernos/
     ├── README.md              Regras da pasta e situação de cada caderno
@@ -44,7 +44,7 @@ doc-cadernos-conhecimento-ses-df/
 
 | Caderno | Versão | Situação | Pasta |
 |---|---|---|---|
-| CNES | v0.2 (rascunho) | Rascunho no modelo v1.1, aguarda aprovação; capítulo já publicado na ferramenta | [`cadernos/cnes/`](./cadernos/cnes/) |
+| CNES | v0.3 (rascunho) | Rascunho no modelo v1.2, aguarda aprovação; capítulo já publicado na ferramenta | [`cadernos/cnes/`](./cadernos/cnes/) |
 | SIGTAP | v1.0 | Capítulo publicado na ferramenta tem conteúdo que o caderno não tem | [`cadernos/sigtap/`](./cadernos/sigtap/) |
 | Carteira de serviços e Carta de Serviços | v1.2 | Faltam Cartas de Serviços e Decreto DF 36.419/2015 | [`cadernos/carteira-servicos/`](./cadernos/carteira-servicos/) |
 | Rede hospitalar do DF | v1.0 | Diverge do capítulo sobre URD | [`cadernos/rede-hospitalar/`](./cadernos/rede-hospitalar/) |

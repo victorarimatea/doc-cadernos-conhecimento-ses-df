@@ -1,6 +1,6 @@
-# Modelo de Caderno de Conhecimento — v1.1
+# Modelo de Caderno de Conhecimento — v1.2
 
-Projeto Carteira de Serviços da SES-DF · Ferramenta HTML, grupo Conhecimento · **v1.1 — 2026-10-23** · v1.0 aprovada por Victor em 22/10/2026; v1.1 ajusta só a localização dos arquivos (seção 7)
+Projeto Carteira de Serviços da SES-DF · Ferramenta HTML, grupo Conhecimento · **v1.2 — 2026-10-26** · v1.0 aprovada por Victor em 22/10/2026; v1.1 ajusta a localização dos arquivos (seção 7); v1.2 registra a apresentação da base normativa (4.5) e o detalhe recolhível em teste (4.6)
 
 Este documento fixa como todo caderno de conhecimento da ferramenta é escrito, apresentado, versionado e ligado aos demais. Parte do padrão que já funciona nos cinco capítulos atuais (SIGTAP, Carteira de serviços, CNES, Rede hospitalar e Carteira SES-DF), corrige o que falta e prepara a evolução para uma wiki.
 
@@ -125,6 +125,29 @@ Conteúdo jurídico leva, além do destaque, o rótulo de força: **vinculante**
 - Literatura e decisões: citação curta (autor e ano, ou tribunal e número), com a referência completa em Fontes.
 - Nenhum número sem data e fonte.
 
+### 4.5 Apresentação da base normativa (seção 2)
+
+Regra aprovada por Victor em 26/10/2026, a partir do caderno de CNES v0.3:
+
+| Bloco | O que entra | Ordem | Colunas |
+|---|---|---|---|
+| **Normas vigentes, por esfera** | Normas em vigor que regem o tema, inclusive as consolidações e as normas distritais que distribuem tarefas na SES-DF | por esfera (federal, distrital); dentro da esfera, a mais abrangente primeiro | Esfera · Norma · Dispositivo · O que estabelece · Situação (data) |
+| **Normas de origem** | Normas que criaram as regras e foram revogadas por consolidação, substituídas ou nunca consolidadas | cronológica | Ano · Norma · Problema que enfrentou (segundo a própria norma) · O que criou · Onde está hoje |
+
+- O "problema que enfrentou" vem dos considerandos ou da justificativa da própria norma; o que for inferência nossa não entra nessa coluna.
+- O caderno não precisa listar todas as normas do tema, só as que o gestor precisa para entender o que vale e de onde veio. Lei geral (como a Lei 8.080/1990) só entra quando um dispositivo dela é citado no texto.
+- A ordem hierárquica (lei, decreto, portaria, resolução) **não** é regra: é alternativa para cadernos com muitas normas da mesma esfera, quando ajudar a leitura.
+- A linha do tempo, quando houver, fica nesta seção e resume os dois blocos.
+
+### 4.6 Detalhe recolhível (em teste)
+
+Aprovado para experimentação em 26/10/2026 no caderno de CNES v0.3.
+
+- Uso: aprofundamento que o gestor pode pular sem perder o fio (definições longas, explicação de uma regra de sistema, um caso que esclarece um dado estranho). Não pode esconder cuidado ou consequência que o gestor precisa ver.
+- Forma no arquivo: `<details><summary>Pergunta ou título curto</summary> … </details>`, com linha em branco depois do `<summary>` e antes do `</details>`. O GitHub e a ferramenta mostram fechado.
+- Limite em teste: até quatro por caderno. O texto dentro do detalhe não conta para o tamanho de referência da seção (4.2).
+- Listas geradas pela ferramenta (ex.: os itens de cada bloco do CNES nos hospitais do DF, com link para a ficha de um hospital) usam o mesmo componente, mas ficam fora do arquivo do caderno: o arquivo traz só o marcador `<!-- componente: listas-por-bloco -->` e a linha que descreve o que será gerado.
+
 ---
 
 ## 5. Os quatro tipos de página da wiki
@@ -226,12 +249,15 @@ doc-cadernos-conhecimento-ses-df/          (repositório público no GitHub)
 4. Conteúdo de natureza jurídica: orientação só entra referenciada na orientação jurídica institucional que a sustenta; sem ela, não entra (regra 4.3.1).
 5. Ordem e obrigatoriedade das seções aprovadas, com a **conferência dos cadernos a cada mudança estrutural da ferramenta** (seção 6.1).
 
+Decisões de 26/10/2026: apresentação da base normativa em dois blocos, vigentes por esfera e origem à parte, com a hierarquia como alternativa opcional (4.5); detalhe recolhível em teste (4.6); listas por bloco com link para fichas de hospital, geradas pela ferramenta.
+
 **Próximos passos:** (a) gravar o modelo no README da pasta de Cadernos (Drive e GitHub); (b) reescrever o caderno RENASES na v0.3; (c) adaptar os quatro capítulos existentes ao modelo, um por vez; (d) implementar na ferramenta a leitura dos cadernos a partir dos arquivos e a verificação automática de referências — os dois últimos registrados na fila de pendências da ferramenta.
 
 ## Histórico
 
 | Versão | Data | Alteração |
 |---|---|---|
+| v1.2 | 2026-10-26 | Seções 4.5 (base normativa em dois blocos) e 4.6 (detalhe recolhível em teste), a partir do caderno de CNES v0.3 |
 | v1.1 | 2026-10-23 | Seção 7 ajustada: todos os cadernos neste repositório, `CHANGELOG.md` por caderno e pasta `_modelo/`; no Drive, só índice com links |
 | v1.0 | 2026-10-22 | Aprovação com as cinco decisões; inclusão da regra jurídica (4.3.1), da conferência a cada mudança estrutural (6.1) e da consequência de repositório público |
 | v0.1 | 2026-10-22 | Proposta a partir do padrão dos cinco capítulos da versão 0.3.10 da ferramenta |

@@ -49,3 +49,18 @@ A versão do caderno muda as seções para a ordem fixa do modelo de caderno v1.
 | 10 | Para aprofundar | lista de links | — |
 
 O quadro do panorama da rede (grupos e número de hospitais) sai do texto e vai para o bloco gerado, porque o caderno não traz números que dependem da base.
+
+## Proposta para o caderno v0.3 (26/10/2026)
+
+Muda em relação à v0.1:
+
+| # | Seção | Elementos | Destaques |
+|---|---|---|---|
+| 2 | Origem e base normativa | subtítulo e quadro "Normas vigentes, por esfera" (Esfera · Norma · Dispositivo · O que estabelece · Situação); subtítulo e quadro "Normas de origem" (Ano · Norma · Problema · O que criou · Onde está hoje) | Atenção "Cite a consolidação"; Linha do tempo 2000–2022 (movida da seção 4) |
+| 3 | Como funciona | quadro "Quem faz o quê"; texto; quadro dos blocos; **listas por bloco geradas** (sete grupos recolhíveis com os itens de cada bloco nos hospitais do DF, quantos hospitais têm cada item e link para a ficha do hospital da SES-DF com maior quantidade); **detalhe recolhível** sobre estabelecimento e tipo; quadro "Como consultar" | Atenção "Confira a unidade antes de acionar" |
+| 4 | Situação atual e atualização | quadro Acontecimento · Quem registra · Se não for registrado; texto | — |
+| 5 | Por que importa | lista numerada; dois parágrafos (exemplo de rejeição; efeito do registro errado) | Leitura do projeto "Três registros" |
+| 7 | Cuidados e limites | lista; **detalhe recolhível** sobre natureza jurídica; texto e lista do leito não SUS | Leitura do projeto "Leito não SUS"; Atenção "Código CNES é texto" |
+| 9 | Nesta ferramenta | bloco gerado com novo quadro "Leitos não SUS nos hospitais públicos" (leitos não SUS, UTI e cuidados intermediários existentes, SUS e habilitados) | Na ferramenta "Recortes diferentes" |
+
+Componentes novos na prévia: detalhe recolhível (mesmo estilo dos grupos recolhíveis da ferramenta, fundo levemente destacado, rótulo "detalhe"); listas por bloco (grupos recolhíveis menores dentro de uma caixa "Gerado pela ferramenta"); subtítulo de bloco dentro da seção. No quadro de normas vigentes, a coluna Esfera é estreita e o nome da norma fica na segunda coluna.

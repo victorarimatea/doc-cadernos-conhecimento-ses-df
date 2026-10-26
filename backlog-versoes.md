@@ -2,6 +2,27 @@
 
 ---
 
+## v1.2 — 2026-10-26
+
+**Tipo de alteração:** Atualização
+**Autorizado por:** victorarimatea
+**Instrumento de aprovação:** decisão do mantenedor em sessão de trabalho (26/10/2026)
+**Processo SEI:** não se aplica
+**IAC gerado:** não se aplica
+**Exposição de motivos:** na revisão do caderno de CNES, o mantenedor aprovou apresentar
+a base normativa em dois blocos (vigentes por esfera; normas de origem em ordem
+cronológica, com o problema que cada uma enfrentou), deixou a ordem hierárquica como
+alternativa e não como regra, e liberou para teste o detalhe recolhível e as listas
+por bloco geradas pela ferramenta.
+
+### Alterações realizadas
+- `MODELO-CADERNO.md` v1.1 → v1.2 — seções 4.5 (base normativa em dois blocos) e 4.6 (detalhe recolhível em teste); decisões de 26/10/2026 na seção 9
+- `cadernos/_modelo/caderno.md` — seção 2 com os dois quadros
+- `cadernos/cnes/` — caderno v0.3 (rascunho), README, CHANGELOG e proposta gráfica
+- `README.md`, `INDICE.md` — versão do modelo e do caderno de CNES
+
+---
+
 ## v1.1 — 2026-10-23
 
 **Tipo de alteração:** Atualização
