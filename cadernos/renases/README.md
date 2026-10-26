@@ -5,13 +5,13 @@
 | Finalidade | Explicar a Relação Nacional de Ações e Serviços de Saúde: o que o SUS oferece, como se acessa cada oferta (critérios de acesso), em que situação está desde 2012 e como isso se liga a SIGTAP, CNES e Carteira |
 | Público | Gestores hospitalares e equipes de apoio da SEGHOSP e da CICS |
 | Capítulo que alimenta | ainda não existe; previsto no grupo Conhecimento |
-| Versão vigente | v1.0 · aprovado em 23/10/2026 |
+| Versão vigente | v1.1 · aprovada em 26/10/2026 |
 | Situação | Aprovado; capítulo na ferramenta a criar |
 | Alinhamento com a ferramenta | Não se aplica até o capítulo ser criado |
 
 ## Arquivos
 
-- [`caderno.md`](caderno.md) — texto do caderno (v1.0, no modelo v1.1).
+- [`caderno.md`](caderno.md) — texto do caderno (v1.1, no modelo v1.1).
 - [`proposta-grafica.md`](proposta-grafica.md) — como o capítulo vai aparecer na ferramenta.
 - [`dossie-de-estudo.md`](dossie-de-estudo.md) — pesquisa aprofundada de 22/10/2026: intenção, trajetória, críticas, uso judicial e de controle, carteiras em outros lugares, lacunas. Material de aprofundamento, não é o caderno.
 - [`CHANGELOG.md`](CHANGELOG.md) — registro de alterações.
@@ -44,6 +44,7 @@
 | 2026-10-23 | Este repositório público passa a ser o lugar único dos cadernos |
 | 2026-10-23 | v0.3 escrita no modelo; enunciados do CNJ, números de fila e de controle e críticas da literatura ficam no dossiê |
 | 2026-10-23 | v1.0 aprovada pelo Victor |
+| 2026-10-26 | v1.1 aprovada pelo Victor (vigência conferida nas consolidações) |
 
 ## Pendências
 

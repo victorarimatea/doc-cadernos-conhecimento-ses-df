@@ -2,6 +2,23 @@
 
 ---
 
+## v1.4 — 2026-10-26
+
+**Tipo de alteração:** Atualização
+**Autorizado por:** victorarimatea
+**Instrumento de aprovação:** aprovação do caderno pelo mantenedor em sessão de trabalho (26/10/2026)
+**Processo SEI:** não se aplica
+**IAC gerado:** não se aplica
+**Exposição de motivos:** a correção de vigência do caderno de RENASES (v1.1, feita em
+24/10/2026 no chat do caderno CNES) foi aprovada: as normas de base estão nas
+consolidações de 2017 e 2021.
+
+### Alterações realizadas
+- `cadernos/renases/` — caderno v1.1 aprovado; README e CHANGELOG
+- `README.md`, `INDICE.md`, `cadernos/README.md` — situação do caderno de RENASES
+
+---
+
 ## v1.3 — 2026-10-26
 
 **Tipo de alteração:** Atualização
