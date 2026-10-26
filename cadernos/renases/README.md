@@ -6,12 +6,12 @@
 | Público | Gestores hospitalares e equipes de apoio da SEGHOSP e da CICS |
 | Capítulo que alimenta | ainda não existe; previsto no grupo Conhecimento |
 | Versão vigente | v1.1 · aprovada em 26/10/2026 |
-| Situação | Aprovado; capítulo na ferramenta a criar |
+| Situação | v1.1 aprovada; v1.2 (modelo v1.2) em rascunho, aguardando aprovação; capítulo na ferramenta a criar depois da v1.2 |
 | Alinhamento com a ferramenta | Não se aplica até o capítulo ser criado |
 
 ## Arquivos
 
-- [`caderno.md`](caderno.md) — texto do caderno (v1.1, no modelo v1.1).
+- [`caderno.md`](caderno.md) — texto do caderno (v1.2 em rascunho, no modelo v1.2; a v1.1 aprovada está no histórico, registro `19564f2`).
 - [`proposta-grafica.md`](proposta-grafica.md) — como o capítulo vai aparecer na ferramenta.
 - [`dossie-de-estudo.md`](dossie-de-estudo.md) — pesquisa aprofundada de 22/10/2026: intenção, trajetória, críticas, uso judicial e de controle, carteiras em outros lugares, lacunas. Material de aprofundamento, não é o caderno.
 - [`CHANGELOG.md`](CHANGELOG.md) — registro de alterações.
@@ -45,6 +45,7 @@
 | 2026-10-23 | v0.3 escrita no modelo; enunciados do CNJ, números de fila e de controle e críticas da literatura ficam no dossiê |
 | 2026-10-23 | v1.0 aprovada pelo Victor |
 | 2026-10-26 | v1.1 aprovada pelo Victor (vigência conferida nas consolidações) |
+| 2026-10-26 | Base normativa em dois blocos (modelo v1.2), seguindo o modelo e não a ordem hierárquica pura |
 
 ## Pendências
 

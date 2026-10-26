@@ -2,6 +2,16 @@
 
 Da mais recente para a mais antiga.
 
+## v1.2 — 2026-10-26 (rascunho; aguarda aprovação do Victor)
+
+- Adaptado ao modelo de caderno v1.2 e às orientações de redação de 26/10/2026 (cadernos para gestores, com quem faz o quê na rede local e lugar na rotina).
+- Seção 2 em dois blocos: normas vigentes por esfera (Decreto 7.508/2011, PRC GM/MS 1/2017, Resolução de Consolidação CIT 1/2021, Regimento Interno da SES-DF, Portaria SES-DF 1.388/2018) e normas de origem em ordem cronológica, com o problema que cada uma enfrentou segundo o próprio texto. A linha do tempo passou para a seção 2, em ordem cronológica corrigida.
+- Artigos citados passam a ser os das consolidações; o destaque de atenção ensina a correspondência (Portaria 841: somar 13; Resolução CIT 2/2012: somar 25).
+- Achados novos, conferidos nas transcrições: (1) a Subcomissão Técnica de Atualização da RENASES existe no regimento da CONITEC (PRC GM/MS 1/2017, Anexo XVI, arts. 15, III, 22 e 23; origem Portaria GM/MS 2.009/2012), com a tarefa de revisar, consolidar e levar a lista à pactuação tripartite; a v1.1 dizia que o regulamento de atualização não havia sido localizado; (2) a Resolução de Consolidação CIT 1/2021 mantém, no art. 13, I, a, o rol de cada região pactuado com base na RENASES (origem Resolução CIT 1/2011), o que matiza a afirmação de que as normas de planejamento regional não citam a lista; (3) no DF, o Colegiado de Gestão é a instância bipartite (Regimento, art. 2º, § 1º, II).
+- Seção 3 com o quadro "Quem faz o quê" (Ministério, subcomissão da CONITEC, CIT, SES-DF com o Colegiado de Gestão, Complexo Regulador, gerência de habilitação, hospital) e um detalhe recolhível ("Como ler um item da lista", com hospital-dia e tratamento intensivo).
+- Seção 5 reescrita pelos momentos da rotina em que a lista aparece; seção 8 com o caminho da habilitação na SES-DF.
+- Origem: chat do caderno RENASES.
+
 ## v1.1 — 2026-10-24 (correção; aprovada pelo Victor em 26/10/2026)
 
 - Aprovada pelo Victor em 26/10/2026, sem alteração de conteúdo (registro `19564f2`).
