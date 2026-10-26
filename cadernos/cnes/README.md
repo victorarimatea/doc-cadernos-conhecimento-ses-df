@@ -64,6 +64,7 @@
 - Localizar a Portaria GM/MS nº 1.321/2016 em fonte primária.
 - Conferir a vigência da Portaria SAS/MS nº 511/2000.
 - Conferir se o Regimento Interno de 2018 ainda descreve as unidades do cadastro depois das reestruturações de 2026, e o formato do link da ficha do estabelecimento no portal do CNES.
+- Descobrir a descrição dos serviços especializados 171 e 172 (HAB e HRT), que faltam na tabela auxiliar do DATASUS; as descrições de equipamento que faltavam foram completadas pelo portal do CNES em 26/10/2026 (tabela de complemento no repositório da ferramenta).
 - Aprovação do Victor para a v1.0.
 
 
