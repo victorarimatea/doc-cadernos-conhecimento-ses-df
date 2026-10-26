@@ -2,7 +2,7 @@
 
 **Tipo:** D — Documento
 **ID:** D04
-**Versão:** v1.1 — 2026-10-23
+**Versão:** v1.4 — 2026-10-26
 **Visibilidade:** Público
 **Mantenedor:** victorarimatea
 **Projeto de origem:** Carteira de Serviços Hospitalares da SES-DF — CICS (Central Integrada de Comando em Saúde)
