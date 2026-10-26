@@ -98,7 +98,7 @@ O CNES é regido hoje por duas portarias de consolidação do Ministério da Sa�
 | Profissionais | Ocupação (CBO), carga horária, forma de contratação, atendimento SUS | Força de trabalho |
 
 <!-- componente: listas-por-bloco -->
-*Listas geradas pela ferramenta: para cada bloco, os itens que aparecem nos hospitais do DF, com link para a ficha de um hospital da SES-DF que tem o item.*
+*Listas geradas pela ferramenta: para cada bloco, os itens que aparecem nos hospitais do DF, em ordem alfabética, com quantos hospitais da rede SES-DF e quantos outros hospitais do DF têm cada item; um clique abre todos esses hospitais, com o detalhe do bloco e o link para a ficha.*
 
 **Tipo do estabelecimento.** Desde 2017, o tipo (hospital geral, hospital especializado e outros) não é mais escolhido: o sistema o deduz das atividades que o estabelecimento informa (arts. 374 a 376).
 

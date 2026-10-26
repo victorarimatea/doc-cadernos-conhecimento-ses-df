@@ -146,7 +146,7 @@ Aprovado para experimentação em 26/10/2026 no caderno de CNES v0.3.
 - Uso: aprofundamento que o gestor pode pular sem perder o fio (definições longas, explicação de uma regra de sistema, um caso que esclarece um dado estranho). Não pode esconder cuidado ou consequência que o gestor precisa ver.
 - Forma no arquivo: `<details><summary>Pergunta ou título curto</summary> … </details>`, com linha em branco depois do `<summary>` e antes do `</details>`. O GitHub e a ferramenta mostram fechado.
 - Limite em teste: até quatro por caderno. O texto dentro do detalhe não conta para o tamanho de referência da seção (4.2).
-- Listas geradas pela ferramenta (ex.: os itens de cada bloco do CNES nos hospitais do DF, com link para a ficha de um hospital) usam o mesmo componente, mas ficam fora do arquivo do caderno: o arquivo traz só o marcador `<!-- componente: listas-por-bloco -->` e a linha que descreve o que será gerado.
+- Listas geradas pela ferramenta (ex.: os itens de cada bloco do CNES nos hospitais do DF, em ordem alfabética, com selos de contagem que abrem um painel lateral com todos os hospitais e o link para a ficha de cada um) usam o mesmo componente, mas ficam fora do arquivo do caderno: o arquivo traz só o marcador `<!-- componente: listas-por-bloco -->` e a linha que descreve o que será gerado.
 
 ---
 
