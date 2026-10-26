@@ -2,6 +2,22 @@
 
 ---
 
+## v1.3 — 2026-10-26
+
+**Tipo de alteração:** Atualização
+**Autorizado por:** victorarimatea
+**Instrumento de aprovação:** aprovação do caderno pelo mantenedor em sessão de trabalho (26/10/2026)
+**Processo SEI:** não se aplica
+**IAC gerado:** não se aplica
+**Exposição de motivos:** o caderno de CNES, que não existia até 22/10/2026, foi aprovado na
+v1.0, depois de três rascunhos e da prévia da página no formato da ferramenta.
+
+### Alterações realizadas
+- `cadernos/cnes/` — caderno v1.0; README, CHANGELOG
+- `README.md`, `INDICE.md`, `cadernos/README.md` — situação do caderno de CNES
+
+---
+
 ## v1.2 — 2026-10-26
 
 **Tipo de alteração:** Atualização

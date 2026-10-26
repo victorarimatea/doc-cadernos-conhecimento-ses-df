@@ -3,14 +3,14 @@ id: cnes
 nome_curto: CNES
 titulo: "CNES: o cadastro oficial dos estabelecimentos de saúde"
 resumo: "O que o Cadastro Nacional de Estabelecimentos de Saúde registra, quem responde por ele na SES-DF, o que precisa ser atualizado a cada mês e como ler os dados sem confundir cadastro com capacidade real."
-versao: v0.3
+versao: v1.0
 revisao: 2026-10-26
 situacao: com pendências
 ---
 
 # CNES: o cadastro oficial dos estabelecimentos de saúde
 
-Conhecimento · CNES · **v0.3 (rascunho)** · 2026-10-26 · base normativa conferida em fonte primária em 22, 24, 25 e 26/10/2026, com [pendências](README.md#pendências)
+Conhecimento · CNES · **v1.0** (aprovada em 26/10/2026) · base normativa conferida em fonte primária em 22, 24, 25 e 26/10/2026, com [pendências](README.md#pendências)
 *Material de estudo. Não substitui a publicação oficial das normas citadas.*
 
 ## 1. O que é
@@ -251,6 +251,7 @@ A natureza jurídica do estabelecimento vem só do CNPJ registrado na Receita Fe
 
 | Versão | Data | O que mudou |
 |---|---|---|
+| v1.0 | 2026-10-26 | Aprovada pelo Victor, com o texto da v0.3 e o ajuste de redação do destaque da seção 6 ("O cadastro não representa necessariamente a realidade") |
 | v0.3 | 2026-10-26 | Base normativa em dois blocos: normas vigentes por esfera, com o Regimento Interno da SES-DF, e normas de origem em ordem cronológica, com o problema que cada uma enfrentou e onde o texto está hoje; quem faz o quê no cadastro na SES-DF; papel do profissional; caminhos de envio no DF; acontecimentos que exigem atualização; certidão negativa; quem registra cada habilitação; exemplo de rejeição; efeito do registro errado; leito não SUS em hospital público, com segunda Leitura do projeto; natureza jurídica de hospital gerido por organização social; dois detalhes recolhíveis em teste; linha do tempo movida para a seção 2. Aguarda aprovação |
 | v0.2 | 2026-10-25 | Vigência da Portaria SAS 118/2014 conferida: revogada por consolidação na Portaria de Consolidação SAES/MS nº 1/2022, que entra na base normativa (arts. 217 a 290 sobre o CNES); regra de desativação citada pelos arts. 227 e 228; linha do tempo até 2022. Aguarda aprovação |
 | v0.1 | 2026-10-24 | Primeiro rascunho no modelo de caderno v1.1, a partir do capítulo publicado na ferramenta (v0.3.10), da linha de base e da verificação em fonte primária. Aguarda aprovação |

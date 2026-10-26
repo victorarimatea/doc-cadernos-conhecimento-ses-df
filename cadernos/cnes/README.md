@@ -5,9 +5,9 @@
 | Finalidade | Explicar ao gestor o que o Cadastro Nacional de Estabelecimentos de Saúde registra, quem atualiza, como consultar e como ler os dados sem confundir cadastro com capacidade real |
 | Público | Gestores hospitalares e equipes de apoio da SEGHOSP e da CICS |
 | Capítulo que alimenta | Conhecimento · CNES (rota `#k-cnes`) |
-| Versão vigente | nenhuma aprovada; rascunho v0.3 de 26/10/2026 aguarda aprovação |
-| Situação | Etapa 4 de 5 concluída (rascunho v0.3 no modelo de caderno v1.2; prévia da página na ferramenta atualizada em 26/10/2026); próxima: aprovação pelo Victor e v1.0 |
-| Alinhamento com a ferramenta | O capítulo existe na ferramenta desde a v0.2 (26/09/2026) sem caderno de origem. Até o caderno ser aprovado, o texto da ferramenta é a única versão |
+| Versão vigente | v1.0, aprovada pelo Victor em 26/10/2026 |
+| Situação | Etapas 1 a 5 concluídas; caderno aprovado no modelo de caderno v1.2. Próximo passo, na ferramenta: o capítulo de CNES passa a ser gerado do caderno, com as listas por bloco e o bloco "Nesta ferramenta" da prévia |
+| Alinhamento com a ferramenta | O capítulo publicado na ferramenta (v0.3.10) ainda é o texto anterior ao caderno. Com a aprovação, o caderno passa a ser a fonte; a troca entra na próxima versão da ferramenta, a partir do gerador da prévia (`build/previa_capitulo_cnes.py` e `build/cnes_listas.py`, no repositório da ferramenta) |
 
 ## Arquivos
 
@@ -15,7 +15,7 @@
 - [`verificacao-fontes_2026-10-22.md`](verificacao-fontes_2026-10-22.md) — conferência de cada afirmação em fonte primária, com link e data; achados novos; pendências que dependem de portais bloqueados.
 - [`proposta-grafica.md`](proposta-grafica.md) — como o capítulo aparece hoje na ferramenta.
 - [`CHANGELOG.md`](CHANGELOG.md) — registro de alterações.
-- [`caderno.md`](caderno.md) — o caderno (v0.3, rascunho de 26/10/2026, no modelo de caderno v1.2).
+- [`caderno.md`](caderno.md) — o caderno (v1.0, aprovado em 26/10/2026, no modelo de caderno v1.2).
 
 ## Normas usadas
 
@@ -46,6 +46,7 @@
 | 2026-10-24 | Escrever o caderno no modelo de caderno padronizado (v1.1), e não na estrutura de 12 seções do prompt original |
 | 2026-10-24 | Citar os artigos pela Portaria de Consolidação nº 1/2017, com a norma de origem indicada |
 | 2026-10-25 | Citar a regra de desativação pela Portaria de Consolidação SAES/MS nº 1/2022 (arts. 227 e 228), com a Portaria SAS 118/2014 como origem |
+| 2026-10-26 | Caderno aprovado pelo Victor (v1.0) |
 | 2026-10-26 | Base normativa em dois blocos: vigentes por esfera e normas de origem em ordem cronológica, com o problema que cada uma enfrentou; a hierarquia fica como alternativa, não como regra (registrado no modelo v1.2, 4.5) |
 | 2026-10-26 | Não incluir a Lei 8.080/1990 nem normas gerais que o texto não cita; incluir as portarias de origem do CNES |
 | 2026-10-26 | Testar o detalhe recolhível (dois no caderno) e as listas por bloco geradas pela ferramenta, com link para a ficha de um hospital da SES-DF |
@@ -65,7 +66,6 @@
 - Conferir a vigência da Portaria SAS/MS nº 511/2000.
 - Conferir se o Regimento Interno de 2018 ainda descreve as unidades do cadastro depois das reestruturações de 2026, e o formato do link da ficha do estabelecimento no portal do CNES.
 - Descobrir a descrição dos serviços especializados 171 e 172 (HAB e HRT), que faltam na tabela auxiliar do DATASUS; as descrições de equipamento que faltavam foram completadas pelo portal do CNES em 26/10/2026 (tabela de complemento no repositório da ferramenta).
-- Aprovação do Victor para a v1.0.
 
 
 Fila de pendências do Project: `claude/backlog/2026-10-22_cadernos-renases-cnes.md` (item "Caderno formal de CNES") e `claude/backlog/2026-10-22_caderno-cnes.md`.

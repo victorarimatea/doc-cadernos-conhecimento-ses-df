@@ -44,13 +44,13 @@ doc-cadernos-conhecimento-ses-df/
 
 | Caderno | Versão | Situação | Pasta |
 |---|---|---|---|
-| CNES | v0.3 (rascunho) | Rascunho no modelo v1.2, aguarda aprovação; capítulo já publicado na ferramenta | [`cadernos/cnes/`](./cadernos/cnes/) |
+| CNES | v1.0 | Aprovado no modelo v1.2 em 26/10/2026; capítulo publicado na ferramenta ainda é o texto anterior e passa a ser gerado do caderno na próxima versão | [`cadernos/cnes/`](./cadernos/cnes/) |
 | SIGTAP | v1.0 | Capítulo publicado na ferramenta tem conteúdo que o caderno não tem | [`cadernos/sigtap/`](./cadernos/sigtap/) |
 | Carteira de serviços e Carta de Serviços | v1.2 | Faltam Cartas de Serviços e Decreto DF 36.419/2015 | [`cadernos/carteira-servicos/`](./cadernos/carteira-servicos/) |
 | Rede hospitalar do DF | v1.0 | Diverge do capítulo sobre URD | [`cadernos/rede-hospitalar/`](./cadernos/rede-hospitalar/) |
 | RENASES — Relação Nacional de Ações e Serviços de Saúde | v1.0 (v1.1 aguarda aprovação) | Aprovado no modelo v1.1; correção de vigência em 24/10/2026; capítulo na ferramenta a criar | [`cadernos/renases/`](./cadernos/renases/) |
 
-O da RENASES já está no modelo; os outros quatro são anteriores a ele e serão adaptados um por vez. Situação detalhada e regras da pasta em [`cadernos/README.md`](./cadernos/README.md).
+Os da RENASES e do CNES já estão no modelo; os outros três são anteriores a ele e serão adaptados um por vez. Situação detalhada e regras da pasta em [`cadernos/README.md`](./cadernos/README.md).
 
 ---
 

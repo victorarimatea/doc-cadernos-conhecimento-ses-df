@@ -2,6 +2,10 @@
 
 Da mais recente para a mais antiga.
 
+## v1.0 — 2026-10-26 (Etapa 5)
+
+- Caderno aprovado pelo Victor em 26/10/2026, com o texto da v0.3 e o ajuste de redação do destaque da seção 6. Cabeçalho, README e tabelas de situação do repositório marcados como v1.0. Pendências de conteúdo seguem no README do caderno; nenhuma muda o que o texto afirma. Origem: chat do caderno CNES.
+
 ## v0.3 — 2026-10-26
 
 - Revisão pedida pelo Victor em 26/10/2026, sobre a análise da v0.2 (crítica do mesmo dia). Itens aprovados: ordenamento da base normativa em dois blocos; quadro "Quem faz o quê"; detalhes recolhíveis em teste; listas por bloco com link para fichas; portarias de origem; leitura completa do leito não SUS; complementos de redação apontados na análise.
