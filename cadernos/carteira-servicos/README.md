@@ -25,6 +25,16 @@ Fila de pendências do Project:
 - `claude/backlog/2026-10-22_caderno-cnes.md`: "Caderno da Carteira — Cartas de Serviços e Decreto DF 36.419/2015".
 - `claude/backlog/2026-10-22_cadernos-renases-cnes.md`: "Ajuste no caderno da Carteira de Serviços (referências à RENASES)". As duas devem sair na mesma versão (v1.3).
 
+## Conferências com a ferramenta
+
+### v0.4.0 da ferramenta (em teste), 27/10/2026: mudança estrutural
+- **O que mudou:** a v0.4.0 acrescenta o registro do 2º ciclo por serviço, com o grupo "Registro · 2º ciclo" no menu e as rotas `#reg`, `#reg-carteira`, `#reg-s-<serviço>`, `#reg-pend`, `#reg-revisao`, `#reg-central` e `#reg-cards`. O capítulo "Carteira e Carta de Serviços" (`#k-carteira`) continua com o texto da v0.3.10, ainda sem caderno-fonte ligado.
+- **Humana (checklist da seção 6.1 do modelo):**
+  - O caderno não descreve caminho de tela, nome de plano ou campo da ferramenta afetado pela mudança.
+  - O caderno não tem bloco "Nesta ferramenta".
+- **Resultado:** sem quebra.
+- **Lacuna de conteúdo (para a v1.3, junto com as duas pendências acima):** o caderno não trata do 2º ciclo de revisão da carteira nem do modelo agrupamento → serviço → item. O conteúdo está nas notas da lista operacional do 2º ciclo (Project, versões 0.1 e 0.2). Entra no caderno quando o Victor aprovar o 2º ciclo após o teste com a unidade.
+
 ## Origem
 
 Google Doc "cap-carteira-servicos_base-estudo-pesquisa" da pasta de conhecimento do projeto no Drive, exportado para Markdown em 22/10/2026. Este arquivo substitui a cópia antiga que ficava em `data/cap/cap_carteira.md` no repositório da ferramenta (mesmo conteúdo, formatação diferente; o histórico do Git acompanha a mudança de lugar). O Google Doc foi movido para a pasta de substituídos do Drive.

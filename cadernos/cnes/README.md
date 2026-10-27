@@ -70,6 +70,20 @@
 
 Fila de pendências do Project: `claude/backlog/2026-10-22_cadernos-renases-cnes.md` (item "Caderno formal de CNES") e `claude/backlog/2026-10-22_caderno-cnes.md`.
 
+## Conferências com a ferramenta
+
+### v0.4.0 da ferramenta (em teste), 27/10/2026: mudança estrutural
+- **Automática (geração):** o capítulo de CNES passou a ser gerado deste caderno (v1.0), sem texto editado à mão. O rodapé do capítulo mostra o caderno-fonte, a versão e o link do registro de alterações.
+  - Links internos citados (`#k-sigtap`, `#k-rede`, `#k-carteira`, fichas `#u-` e `#h-`, `#hospitais`, `#capacidade`): todos existem na v0.4.0.
+  - O link para o caderno de RENASES aponta para o arquivo no GitHub enquanto a ferramenta não tem o capítulo.
+- **Humana (checklist da seção 6.1 do modelo):**
+  - O caminho de leitura descrito ainda corresponde à tela. A v0.4.0 acrescenta o grupo "Registro · 2º ciclo" ao menu e não muda as páginas que o caderno cita.
+  - Nenhum nome de plano ou campo citado mudou.
+  - O bloco "Nesta ferramenta" é gerado com dados (CNES 08/2026).
+  - As listas por bloco abrem o painel.
+  - O exemplo integrado continua navegável.
+- **Resultado:** sem pendência nova.
+
 ## Origem
 
 Caderno pedido em 22/10/2026 (prompt `claude/prompt-caderno-cnes.md` no Project), depois que a auditoria dos capítulos de conhecimento mostrou que o capítulo de CNES nunca teve caderno.
